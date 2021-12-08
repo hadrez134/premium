@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.ui.gallery.GalleryFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_botonpausasactivas2"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_botonpausasactivas2" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso126"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_paso126" />
+
+            <Button
+                android:id="@+id/btnOpen"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso127"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_paso127" />
+
+            <Button
+                android:id="@+id/btnbrazos"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso128"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_paso128" />
+
+            <Button
+                android:id="@+id/manos"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso129"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_paso129" />
+
+            <Button
+                android:id="@+id/espalda"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso130"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_paso130" />
+
+            <Button
+                android:id="@+id/piernas"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso131"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_paso131" />
+
+            <LinearLayout
+                android:id="@+id/layout_admob"
+                android:layout_width="match_parent"
+                android:layout_height="66dp"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso111"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="normal"
+                tools:text="@string/app_paso111" />
+
+            <Button
+                android:id="@+id/calendinaa"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso112"
+                android:textColor="#000000"
+                android:textColorHint="#FFFFFF"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/vdtcalen"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso113"
+                android:textSize="16sp"
+                tools:text="@string/app_paso113" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso114"
+                android:textAlignment="viewStart"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_paso114" />
+
+            <Button
+                android:id="@+id/dina2hs"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso115"
+                android:textSize="16sp"
+                tools:text="@string/app_paso115" />
+
+            <Button
+                android:id="@+id/vdt2hs"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso116"
+                android:textSize="16sp"
+                tools:text="@string/app_paso116" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso117"
+                android:textColor="#131313"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_paso117" />
+
+            <Button
+                android:id="@+id/dina4hs"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso118"
+                android:textSize="16sp"
+                tools:text="@string/app_paso118" />
+
+            <Button
+                android:id="@+id/vdt4hs"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso119"
+                android:textSize="16sp"
+                tools:text="@string/app_paso119" />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso120"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_paso120" />
+
+            <Button
+                android:id="@+id/dina6hs"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso121"
+                android:textSize="16sp"
+                tools:text="@string/app_paso121" />
+
+            <Button
+                android:id="@+id/vdt6hs"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso122"
+                android:textSize="16sp"
+                tools:text="@string/app_paso122" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso123"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_paso123" />
+
+            <Button
+                android:id="@+id/dina8hs"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso124"
+                android:textSize="16sp"
+                tools:text="@string/app_paso124" />
+
+            <Button
+                android:id="@+id/vdt8hs"
+                style="@android:style/Widget.Button.Inset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_paso125"
+                android:textSize="16sp"
+                tools:text="@string/app_paso125" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

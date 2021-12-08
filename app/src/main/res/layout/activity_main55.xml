@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.Main55Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView615"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto391"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_texto391" />
+
+            <TextView
+                android:id="@+id/textView616"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto392"
+                android:textColor="#0B0B0B"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/app_texto392" />
+
+            <TextView
+                android:id="@+id/textView617"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto393"
+                android:textColor="#070707"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_texto393" />
+
+            <TextView
+                android:id="@+id/textView618"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto394"
+                android:textAlignment="center"
+                android:textColor="#0C0C0C"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                android:typeface="serif"
+                tools:text="@string/app_texto394" />
+
+            <TextView
+                android:id="@+id/textView619"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto395"
+                android:textColor="#0B0A0A"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_texto395" />
+
+            <TextView
+                android:id="@+id/textView620"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto396"
+                android:textAlignment="center"
+                android:textColor="#050505"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                android:typeface="serif"
+                tools:text="@string/app_texto396" />
+
+            <TextView
+                android:id="@+id/textView621"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto397"
+                android:textColor="#090909"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                android:typeface="serif"
+                tools:text="@string/app_texto397" />
+
+            <TextView
+                android:id="@+id/textView622"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto398"
+                android:textColor="#090909"
+                android:textSize="16sp"
+                tools:text="@string/app_texto398" />
+
+            <TextView
+                android:id="@+id/textView623"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto399"
+                android:textColor="#090909"
+                android:textSize="16sp"
+                tools:text="@string/app_texto399" />
+
+            <TextView
+                android:id="@+id/textView624"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_391"
+                android:textColor="#090909"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_391" />
+
+            <TextView
+                android:id="@+id/textView625"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_392"
+                android:textColor="#070707"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                android:typeface="serif"
+                tools:text="@string/app_392" />
+
+            <TextView
+                android:id="@+id/textView626"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_393"
+                android:textColor="#050505"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_393" />
+
+            <TextView
+                android:id="@+id/textView627"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_394"
+                android:textColor="#070707"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_394" />
+
+            <TextView
+                android:id="@+id/textView628"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_395"
+                android:textColor="#090909"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_395" />
+
+            <TextView
+                android:id="@+id/textView629"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_396"
+                android:textColor="#0B0B0B"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_396" />
+
+            <TextView
+                android:id="@+id/textView630"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_397"
+                android:textColor="#0E0E0E"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                android:typeface="serif"
+                tools:text="@string/app_397" />
+
+            <TextView
+                android:id="@+id/textView631"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_398"
+                android:textColor="#0C0C0C"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_398" />
+
+            <TextView
+                android:id="@+id/textView632"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_399"
+                android:textColor="#0C0C0C"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_399" />
+
+            <TextView
+                android:id="@+id/textView633"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app391"
+                android:textColor="#0B0A0A"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app391" />
+
+            <TextView
+                android:id="@+id/textView634"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app392"
+                android:textColor="#0B0B0B"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app392" />
+
+            <TextView
+                android:id="@+id/textView635"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app393"
+                android:textColor="#0B0B0B"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app393" />
+
+            <TextView
+                android:id="@+id/textView636"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app394"
+                android:textColor="#0B0A0A"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                android:typeface="serif"
+                tools:text="@string/app394" />
+
+            <TextView
+                android:id="@+id/textView637"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app395"
+                android:textColor="#090909"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app395" />
+
+            <TextView
+                android:id="@+id/textView638"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app396"
+                android:textColor="#050505"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app396" />
+
+            <TextView
+                android:id="@+id/textView639"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app397"
+                android:textColor="#070707"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app397" />
+
+            <TextView
+                android:id="@+id/textView640"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app398"
+                android:textColor="#090909"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app398" />
+
+            <TextView
+                android:id="@+id/textView641"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app399"
+                android:textColor="#020202"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                android:typeface="serif"
+                tools:text="@string/app399" />
+
+            <TextView
+                android:id="@+id/textView642"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/ap391"
+                android:textColor="#131212"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/ap391" />
+
+            <TextView
+                android:id="@+id/textView643"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/ap392"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/ap392" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

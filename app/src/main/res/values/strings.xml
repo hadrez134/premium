@@ -1,0 +1,1001 @@
+<resources>
+    <string name="app_name">Pausas Activas y Bienestar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">DESARROLLO EMPRESARIAL INGENIERIL</string>
+    <string name="nav_header_correo">desarrolloempresarialing@gmail.com</string>
+    <string name="nav_header_subtitle">Inf. 3165319326</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    Generales
+    <string name="generales">Reproducir</string>
+    <string name="app_1">Reproducir</string>;
+
+    <string name="menu_home">Mejora tu salud</string>
+    <string name="menu_gallery">Pausas activas</string>
+    <string name="menu_slideshow">Cuida tus ojos</string>
+
+
+    PAGINA DE REGISTRO
+    <string name="app_bienvenida">HOLA!!! BIENVENIDO</string>;
+    <string name="app_haz">Si quieres recibir contenido exclusivo, regístrate y haz parte de nuestro mundo</string>
+    ;
+    <string name="app_nombre">Nombre completo</string>;
+    <string name="app_correo">Correo electrónico (opcional)</string>;
+    <string name="app_celular">Número de celular (opcional)</string>;
+    <string name="app_empresa">Nombre de la Empresa (opcional)</string>;
+    <string name="app_registrar">REGISTRARSE</string>;
+    <string name="app_ahora">EMPIEZA TU AUTOCUIDADO AHORA!!!</string>;
+
+    PAGINA HOME
+    <string name="app_2">REGÍSTRATE AHORA!!</string>;
+    <string name="app_3">¿QUIERES MEJORAR TU SALUD EN 6 SIMPLES PASOS?</string>;
+    <string name="A1">1. Mejora tus posturas en la oficina y en tu lugar de trabajo</string>;
+    <string name="A2">2. Realiza pausas activas y disminuye el dolor muscular</string>;
+    <string name="A3">3. Disminuye el cansancio de tus ojos</string>;
+    <string name="A4">4. Haz tu propio estudio de iluminación</string>;
+    <string name="A5">5. Realiza descansos personalizados en tu jornada laboral</string>;
+    <string name="A6">6.Implementa hábitos y estilos de vida saludables de la manera más sencilla y efectiva</string>
+    ;
+    <string name="A7">SÍNTOMAS DEL SÍNDROME DEL TÚNEL DEL CARPO</string>;
+
+    PAGINA PAUSAS
+    <string name="app_botonpausasactivas2">DISMINUYE EL DOLOR MUSCULAR EN SOLO 5 PASOS</string>;
+    <string name="app_paso126">SI NECESITAS DISMINUIR EL DOLOR DE MANERA INMEDIATA, SELECCIONA LA ZONA AFECTA Y REALIZA LOS EJERCICIOS</string>
+    <string name="app_paso127">CABEZA Y CUELLO</string>;
+    <string name="app_paso128">BRAZOS </string>;
+    <string name="app_paso129">MANOS</string>;
+    <string name="app_paso130">ESPALDA</string>;
+    <string name="app_paso131">PIERNAS</string>;
+    <string name="app_paso111">PASO 1. REALIZA EJERCICIOS DE CALENTAMIENTO</string>;
+    <string name="app_paso112">Ejercicios de calentamiento puestos dinámicos</string>;
+    <string name="app_paso113">Ejercicios de calentamiento en la oficina VDT</string>;
+    <string name="app_paso114">PASO 2. REALIZA EJERCICIOS DE ESTIRAMIENTO LUEGO DE DOS HORAS DE TRABAJO</string>
+    <string name="app_paso115">Ejercicios de estiramiento puestos dinámicos (2h)</string>;
+    <string name="app_paso116">Ejercicios de estiramiento en la oficina VDT (2h)</string>;
+    <string name="app_paso117">PASO 3. REALIZA EJERCICIOS DE ESTIRAMIENTO EN LA MITAD DE LA JORNADA LABORAL</string>
+    <string name="app_paso118">Ejercicios de estiramiento puestos dinámicos (4h)</string>;
+    <string name="app_paso119">Ejercicios de estiramiento en la oficina VDT (4h)</string>
+    <string name="app_paso120">PASO 4. REALIZA EJERCICIOS DE ESTIRAMIENTO LUEGO DE 6 HORAS LABORADAS</string>
+    <string name="app_paso121">Ejercicios de estiramiento puestos dinámicos (6h)</string>;
+    <string name="app_paso122">Ejercicios de estiramiento en la oficina VDT (6h)</string>
+    <string name="app_paso123">PASO 5. REALIZA EJERCICIOS DE ESTIRAMIENTO AL FINALIZAR LA JORNADA LABORAL</string>
+    <string name="app_paso124">Ejercicios de estiramiento puestos dinámicos (8h)</string>;
+    <string name="app_paso125">Ejercicios de estiramiento en la oficina VDT (8h)</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    ACTIVIDAD 2 CABEZA, CUELLO Y HOMBROS
+    <string name="app_121">EJERCICIOS PARA DISMINUIR EL DOLOR DE CABEZA, CUELLO y HOMBROS</string>
+    <string name="app_122">EJERCICIO 1. Levantemos los hombros y rótenoslos hacia atrás hacia atrás, haciendo 15 repeticiones</string>
+    <string name="app_123">EJERCICIO 2. Rotemos el cuello lentamente hacia el lado izquierdo durante 10 segundos y luego hacia el lado derecho durante 10 segundos</string>
+    <string name="app_124">EJERCICIO 3. Crucemos el brazo sobre la cabeza y halemos la cabeza hacia abajo durante 10 segundos, luego cambiamos hacia el otro lado por 10 segundos, haciendo 10 repeticiones en cada lado</string>
+    <string name="app_125">EJERCICIO 4. Levantemos los hombros y rótenoslos hacia atrás hacia atrás, haciendo 15 repeticiones</string>
+    <string name="app_126">EJERCICIO 5. Miramos hacia abajo en un ángulo de 45 grados y empujamos la cabeza hacia abajo durante 6 segundos, cambiamos de lado y haciendo 10 repeticiones</string>
+    <string name="app_127">EJERCICIO 6. Miramos hacia arriba y manteniendo la posición, luego giramos la cabeza lentamente de un lado hacia el otro, haciendo 15 repeticiones</string>
+    <string name="app_128">EJERCICIO 7. Colocamos las manos en la espalda, agarramos la muñeca izquierda con la mano derecha, halamos hacia la derecha e inclinamos la cabeza a la derecha durante 10 segundos, cambiamos de lado, haciendo 10 repeticiones</string>
+    <string name="app_129">Ejercicio 8. Con tu espalda recta y hombros hacia atrás, haz un movimiento semicircular con tu cabeza como si llevaras el mentón de un lado a otro, repítelo 5 veces</string>
+    <string name="app_1291">Ejercicio 9. Con tu espalda recta lleva tus brazos hacia los lados y mantenlos extendidos, súbelos y bájalos, realiza este movimiento 10 veces</string>
+    <string name="app_1292">Ejercicio 10. Con tu espalda recta baja la cabeza y mueve los hombros hacia arriba y hacia atrás hazlo 10 veces</string>
+    <string name="app_1293">Ejercicio 11. Con tu espalda recta lleva la cabeza hacia delante y hacia abajo, sostén la postura por 15 segundos con la ayuda de tus dos manos</string>
+
+    ACTIVIDAD 3 BRAZOS
+    <string name="app_161">EJERCICIOS PARA DISMINUIR EL DOLOR DE BRAZOS</string>
+    <string name="app_162">Ejercicio 1. Pasemos los brazos por detrás de la espalda, agarramos la muñeca izquierda con la mano derecha, halamos hacia la derecha e inclinamos la cabeza a la derecha durante 10 segundos, cambiamos de lado, haciendo 10 repeticiones</string>
+    <string name="app_163">Ejercicio 2. Pasemos el brazo derecho por detrás de la cabeza tocando la espalda con la mano y con la mano izquierda ejerzamos presión hacia abajo durante 10 segundos, cambiemos de lado, haciendo así 10 repeticiones</string>
+    <string name="app_164">Ejercicio 3. Entrelacemos los dedos de las manos y estiramos los brazos hacia arriba en punta de pies, luego estiramos hacia adelante, hacia la derecha y hacia la izquierda durante 10 segundos cada uno</string>
+    <string name="app_165">Ejercicio 4 Coloquemos las manos en la cintura, estiremos los hombros hacia atrás y sostengamos por 10 segundos, haciendo 5 repeticiones</string>
+    <string name="app_166">Ejercicio 5. Estiremos el brazo derecho y lo pasamos por encima de la cabeza, volvemos a la posición inicial y cambiamos de brazo, haciendo 10 repeticiones por cada brazo</string>
+    <string name="app_167">Ejercicio 6. Lleva el brazo hacia el frente y bájalo con la ayuda de la otra mano y sostén durante 15 segundos, luego repítelo con el otro brazo</string>
+    <string name="app__168">Ejercicio 7. Deja un brazo totalmente recto y la palma de tu mano como si la fueras a apoyar, con ayuda de la mano contraria lleva la palma hacia arriba, durante 15 segundos y luego repítelo con el otro brazo</string>
+    <string name="app__169">Ejercicio 8. Lleva le brazo hacia el frente totalmente recto, con tu palma hacia arriba, con la mano contraria toma el pulgar y gira sutilmente el brazo</string>
+    <string name="app_1690">Ejercicio 9. Con tu espalda recta entrelaza las manos y ubícalas detrás del cuello lleva los codos hacia atrás y mantén esta posición por 15 segundos</string>
+    <string name="app_1691">Ejercicio 10. Estira tu pecho, llevando tus brazos hacia adelante y hacia atrás</string>
+
+    ACTIVIDAD 13 MANOS
+    <string name="app_171">EJERCICIOS PARA DISMINUIR EL DOLOR DE MANOS</string>
+    <string name="app_172">Ejercicio 1. Estiramos el brazo, abrimos la mano y estiramos los dedos, contamos 10 segundos y cambiamos de mano</string>
+    <string name="app_173">Ejercicio 2. Estiramos el brazo, abrimos la mano con los dedos juntos y estiramos la mano desde el lado posterior de la palma hacia abajo, contamos 10 segundos y repetimos el ejercicio con la otra mano</string>
+    <string name="app_174">Ejercicio 3. Estiramos los brazos y abrimos y cerramos las manos por un tiempo de 15 segundos</string>
+    <string name="app_175">Ejercicio 4. Con el dedo pulgar tocamos cada uno de los dedos de la mano por un tiempo de 15 segundos</string>
+    <string name="app_176">Ejercicio 5. Estiremos la mano hacia adelante, cerremos la mano en forma de puño y realicemos 10 giros hacia afuera y 10 giros hacia dentro</string>
+    <string name="app_177">Ejercicio 6. Unamos las manos con las palmas extendidas, subimos los codos y hacemos fuerza hacia abajo tal y como se muestra en la siguiente imagen </string>
+    <string name="app_178">Ejercicio 7. Lleva tu mano hacia el frente con la palma hacia arriba y lleva hacia abajo los 5 dedos con la otra mano sostenla por 15 segundos descansa y repítelo con la otra mano</string>
+    <string name="app_179">Ejercicio 8. Abre tu mano con la palma hacia arriba y con ayuda de la otra mano cuenta cada dedo, baja tu dedo lo más que puedas y repítelo con la otra mano</string>
+    <string name="app_1791">Ejercicio 9. Coloca tus manos hacia el frente, abre y cierra las manos lo más rápido posible, como si llamaras a alguien, haz este ejercicio por 10 segundos</string>
+
+    ACTIVIDAD 4 ESPALDA
+    <string name="app_181">EJERCICIOS PARA DISMINUIR EL DOLOR DE ESPALDA</string>
+    <string name="app_182">Ejercicio 1. Con tu espalda recta dobla las rodillas, llevas los brazos hacia el frente, sigue con la espalda recta y sostén por 15 segundos, luego descansa</string>
+    <string name="app_183">Ejercicio 2. Sentado coloca las manos en tu espalda dirige los codos hacia atrás y extiende ligeramente tu tronco, sostén esta posición por 15 segundos</string>
+    <string name="app_184">Ejercicio 3. Con tu espalda recta siéntate en el aire y lleva los brazos hacia adelante intenta sostener por 15 segundos</string>
+    <string name="app_185">Ejercicio 4. Arquee tu columna hacia adelante y pon tus manos en la parte baja de la espalda y sostén durante 15 segundos, haz dos repeticiones</string>
+
+    ACTIVIDAD 5 PIERNAS
+    <string name="app_191">EJERCICIOS PARA DISMINUIR EL DOLOR DE PIERNAS</string>
+    <string name="app_192">Ejercicio 1. Estiramos los brazos hacia adelante y realizamos 10 sentadillas, completando 4 series de 10</string>
+    <string name="app_193">Ejercicio 2. Realizamos 8 desplantes como se muestran en la siguiente figura</string>
+    <string name="app_194">Ejercicio 3. Realizamos 15 elevación de talones con los brazos entrecruzados</string>
+    <string name="app_195">Ejercicio 4. Apoyamos las manos en el escritorio y realizamos 10 repeticiones de extensión de cadera por cada pierna</string>
+    <string name="app_196">Ejercicio 5. Pasamos el pie derecho sobre el izquierdo y con la mano izquierda intentamos tocar la punta del pie izquierdo durante 15 segundos por cada lado</string>
+    <string name="app_197">Ejercicio 6. Con tu espalda recta, flexiona la rodilla llevándola hacia atrás, sostén la posición con las manos por 15 segundos, y luego repite el ejercicio cambiando de pierna</string>
+    <string name="app_198">Ejercicio 7. Separa las piernas, lleva una hacia adelante levantándola un poco y empieza a hacer movimientos en círculos con tu tobillo y pierna, cuenta hasta 10 y cambia de pierna</string>
+    <string name="app_199">Ejercicio 8. Coloca una pierna hacia adelante y la otra hacia atrás, la de adelante colócala totalmente recta, apoyando únicamente el talón, sostén 15 segundos y cambia de pierna</string>
+    <string name="app_1991">Ejercicio 9. Agáchate y separa una de tus piernas hacia el lado lo más que puedas sin elevar el pie del piso, mantén la posición por 15 segundos y luego camia de pierna</string>
+
+    ACTIVIDAD 6 CALENTAMIENTO PUESTOS DINAMICOS
+    <string name="app_201">EJERCICIOS DE CALENTAMIENTO PUESTOS DINÁMICOS</string>
+    <string name="app_202">Ejercicio 1. Sujetamos el empeine y llevamos el talón lo más cerca de los glúteos y sostenemos por 10 segundos, luego repetimos el ejercicio con el otro pie</string>
+    <string name="app_203">Ejercicio 2. Rotamos el tobillo derecho en forma circular por 10 segundos y luego intercambiamos de pie, realizando 10 series</string>
+    <string name="app_204">Ejercicio 3. Colocamos las manos en la cintura y realizamos una sentadilla inhalando y exhalando al subir, completando una serie de 5 sentadillas</string>
+    <string name="app_205">Ejercicio 4. Colocamos las manos en la cadera y giramos en círculos hacia la izquierda durante 15 segundos y luego a la derecha por 15 segundos</string>
+    <string name="app_206">Ejercicio 5. Trotamos durante 1 minuto en el mismo sitio</string>
+    <string name="app_207">Ejercicio 6. Separamos las piernas al ancho de los hombros, llevamos las manos a la cintura, levantamos los talones y nos ponemos en punta de pies 5 segundos, levantamos la punta de los pies y sostenemos 5 segundos, por 5 series</string>
+    <string name="app_208">Ejercicio 7. Separamos las piernas al ancho de los hombros, llevamos las manos a la cintura, giramos la cadera en círculos hacia el lado derecho 5 veces y luego al lado izquierdo 5 veces</string>
+    <string name="app_209">Ejercicio 8. Colocamos las manos en la parte lateral de las piernas, y hacemos círculos hacia delante con los hombros 10 veces y luego hacia atrás 10 veces</string>
+
+    ACTIVIDAD 7 CALENTAMIENTO VDT
+    <string name="app_211">EJERCICIOS DE CALENTAMIENTO EN LA OFICINA VDT</string>
+    <string name="app_212">Ejercicio 1. Separamos las piernas a lo ancho de los hombros, llevamos las manos a los hombros y estiramos los brazos hacia arriba y regresamos las manos a los hombros, haciendo 10 repeticiones</string>
+    <string name="app_213">Ejercicio 2. Estiramos los brazos hacia adelante, llevamos las manos hacia abajo y hacemos puños, luego flexionamos los puños hacia arriba y hacia abajo y repetimos 10 veces</string>
+    <string name="app_214">Ejercicio 3. Estiramos los brazos hacia abajo y abrimos y cerramos las manos por un tiempo de 15 segundos</string>
+    <string name="app_215">Ejercicio 4. Estiramos los brazos hacia adelante, abrimos las manos con las palmas hacia afuera los mas que podamos por un tiempo de 15 segundos</string>
+    <string name="app_216">Ejercicio 5. Estiramos los brazos hacia adelante, cerramos la mano en forma de puño con el pulgar hacia arriba y estiramos la mano hacia adentro por un tiempo de 15 segundos</string>
+    <string name="app_217">Ejercicio 6. Lleva tu mano hacia el frente con la palma hacia arriba y lleva hacia abajo los 5 dedos con la otra mano sostenla por 15 segundos descansa y repítelo con la otra mano</string>
+    <string name="app_218">Ejercicio 7. Une los dedos de la mano derecha con los dedos de la mano izquierda y abre y cierra por un tiempo de 15 segundos</string>
+
+    ACTIVIDAD 8 DINA 2 H
+    <string name="app_221">EJERCICIOS DE ESTIRAMIENTO PUESTOS DINÁMICOS (2H laboradas)</string>
+    <string name="app_222">Ejercicio 1. Unimos las palmas de las manos y hacemos rotaciones de izquierda a derecha durante 30 segundos</string>
+    <string name="app_223">Ejercicio 2. Levantemos los hombros y rótemoslos hacia atrás, haciendo 15 repeticiones</string>
+    <string name="app_224">Ejercicio 3. Llevamos la pierna derecha adelante y la izquierda a atrás, sin levantar el talón del piso, llevamos las manos a la cintura e inclinamos el cuerpo hacia adelante flexionando la pierna derecha sin sobrepasar la punta del pie, mantenemos esta posición por 15 segundos, repetimos el ejercicio con la otra pierna</string>
+    <string name="app_225">Ejercicio 4. Flexionamos la pierna izquierda hacia el pecho la tomamos con las dos manos en la parte inferior y nos mantenemos en esta posición por 10 segundos, repetimos el ejercicio con la otra pierna</string>
+
+    ACTIVIDAD 9 VDT 2H
+    <string name="app_231">EJERCICIOS DE ESTIRAMIENTO EN LA OFICINA VDT (2H laboradas)</string>
+    <string name="app_232">Ejercicio 1. Crucemos la pierna derecha sobre la izquierda y con la mano derecha empujemos la rodilla hacia abajo durante 10 segundos, luego repitamos este ejercicio con la otra pierna hasta realizar 10 repeticiones</string>
+    <string name="app_233">Ejercicio 2. Estiremos la pierna hacia el frente y realicemos ejercicios de rotación del pie, luego movamos el empeine hacia arriba y hacia bajo, repetir el ejercicio con la otra pierna, realizando 10 repeticiones</string>
+    <string name="app_234">Ejercicio 3. Estirar los brazos hacia arriba e inhalar, luego bajar los brazos a los pies y exhalar, realizar este ejercicio pode 10 repeticiones </string>
+    <string name="app_235">Ejercicio 4. Rotar el tronco lentamente de un lado hacia el otro durante 30 segundos, tal como se muestra en la siguiente imagen</string>
+    <string name="app_236">Ejercicio 5. Entrelacemos los dedos de la mano y estiremos los brazos hacia arriba, hacia abajo, hacia izquierda y derecha durante 10 segundos por cada lado</string>
+
+    ACTIVIDAD 10 DINA 4H
+    <string name="app_241">EJERCICIOS DE ESTIRAMIENTO PUESTOS DINÁMICOS (4H laboradas)</string>
+    <string name="app_242">Ejercicio 1. Colocamos las manos sobre las piernas, giramos la cabeza al lado derecho y la mantenemos por 5 segundos, giramos la cabeza al lado izquierdo y la mantenemos 5 segundos</string>
+    <string name="app_243">Ejercicio 2. Colocamos las manos sobre las piernas, inclinamos la cabeza hacia el lado derecho para tocar el oído con el hombro derecho y mantenemos 5 segundos, luego repetimos el ejercicio hacia el otro lado</string>
+    <string name="app_244">Ejercicio 3. Colocamos las manos sobre las piernas, y llevamos la cabeza hacia abajo para tocar el pecho con el mentón y mantenemos 5 segundos</string>
+
+    ACTIVIDAD 11 VDT 4H
+    <string name="app_251">EJERCICIOS DE ESTIRAMIENTO EL LA OFICINA VDT (4H laboradas)</string>
+    <string name="app_252">Ejercicio 1. Rotamos el brazo derecho de abajo hacia arriba, luego lo estiramos hacia atrás y volvemos a bajar, repetimos el ejercicio con el brazo derecho, realizando 10 repeticiones</string>
+    <string name="app_253">Ejercicio 2. Subimos los brazos a la altura de los hombros, abrimos las palmas de las manos y empujamos hacia atrás relajando el cuello y la cintura por 15 segundos y por 3 series</string>
+    <string name="app_254">Ejercicio 3. Llevamos los codos hacia atrás, mantenemos la espalda recta, inhalamos y exhalamos durante 10 segundos, por tres ciclos</string>
+    <string name="app_255">Ejercicio 4. trata de juntar tus dos manos por la espalda donde una esté por encima de la otra</string>
+    <string name="app_256">Ejercicio 5. Inclínate y toca la punta de los pies</string>
+    <string name="app_257">Ejercicio 6. Subimos los brazos hacia la derecha y damos una palmada, levantamos la pierna izquierda y damos una palmada debajo de ella, levantamos las manos al lado izquierdo y damos una palmada, levantamos la pierna derecha y damos una palmada, repetimos este ejercicio 5 veces</string>
+    <string name="app_258">Ejercicio 7. Colocamos las manos en la pared e intentamos tocar el codo derecho con la rodilla izquierda en 10 ocasiones, repetimos el ejercicio cambiando de lado</string>
+
+    ACTIVIDAD 12 DINA 6H
+    <string name="app_261">REALIZA EJERCICIOS DE ESTIRAMIENTO EN PUESTOS DINÁMICOS (6H Laboradas)</string>
+    <string name="app_262">Ejercicio 1. Apoyamos las palmas de las manos en la parte lumbar, llevamos la cadera hacia adelante y elevamos el mentón sosteniendo por 10 segundos</string>
+    <string name="app_263">Ejercicio 2. Entrelazamos los dedos y estiramos los brazos hacia al frente, hacia arriba y hacia el lado izquierdo y derecho por 10 segundos cada uno</string>
+    <string name="app_264">Ejercicio 3. Cogemos el empeine del pie derecho con la mano derecha y estiramos hacia arriba por 15 segundos, repetimos el ejercicio con la otra pierna</string>
+    <string name="app_265">Ejercicio 4. Levantemos los hombros y rotémoslos hacia atrás hacia atrás, haciendo 15 repeticiones</string>
+    <string name="app_266">Ejercicio 5. Con tu espalda recta dobla las rodillas, llevas los brazos hacia el frente, sigue con la espalda recta y sostén por 15 segundos, luego descansa</string>
+
+    ACTIVIDAD 14 VDT
+    <string name="app_271">EJERCICIOS DE ESTIRAMIENTO EN LA OFICINA VDT (6H laboradas)</string>
+    <string name="app_272">Ejercicio 1. Entrelazamos los dedos y estiramos los brazos hacia al frente, hacia arriba y hacia el lado izquierdo y derecho por 10 segundos cada uno</string>
+    <string name="app_273">Ejercicio 2. Cogemos los codos con las manos y estiramos hacia la izquierda y derecha y sostenemos por 10 segundos en cada lado</string>
+    <string name="app_274">Ejercicio 3. Levantemos los hombros y rotémoslos hacia atrás hacia atrás, durante 30 segundos</string>
+    <string name="app_275">Ejercicio 4.  Colocamos las manos en la espalda, agarramos la muñeca izquierda con la mano derecha, halamos hacia la derecha e inclinamos la cabeza a la derecha durante 10 segundos, cambiamos de lado, haciendo 10 repeticiones</string>
+    <string name="app_276">Ejercicio 5. Unamos las manos con las palmas extendidas, subimos los codos y hacemos fuerza hacia abajo tal y como se muestra en la siguiente imagen y luego intercambiamos de posición con las manos hacia abajo</string>
+    <string name="app_277">Ejercicio 6. Subimos el brazo derecho y bajamos el brazo izquierdo, luego intercambiamos de posición, haciendo 10 repeticiones</string>
+    <string name="app_278">Ejercicio 7. Sacudimos las manos durante 10 segundos y lo repetimos durante 3 veces</string>
+    <string name="app_279">Ejercicio 8. Estiramos los brazos hacia adelante y bajamos sosteniendo durante 10 segundos, repitiendo el ejercicio 3 veces</string>
+
+    ACTIVIDAD 15 DINA 8H
+    <string name="app_281">EJERCICIOS DE ESTIRAMIENTO PUESTOS DINÁMICOS (8H laboradas)</string>
+    <string name="app_282">Ejercicio 1. Con la punta de los dedos de las manos intentamos tocar la punta de los pies</string>
+    <string name="app_283">Ejercicio 2. Levantamos el pie derecho, y pasamos las manos por debajo de la pierna derecha y levantamos lo más que podamos</string>
+    <string name="app_284">Ejercicio 3. Pasamos el pie derecho sobre el izquierdo y con la mano izquierda intentamos tocar la punta del pie izquierdo durante 15 segundos por cada lado</string>
+    <string name="app_285">Ejercicio 4. Colocamos las manos en la espalda, agarramos la muñeca izquierda con la mano derecha, halamos hacia la derecha e inclinamos la cabeza a la derecha durante 10 segundos, cambiamos de lado, haciendo 10 repeticiones</string>
+    <string name="app_286">Ejercicio 5. Arquee tu columna hacia adelante y pon tus manos en la parte baja de la espalda y sostén durante 15 segundos, haz dos repeticiones</string>
+
+    ACTIVIDAD 16 VDT 8H
+    <string name="app_291">EJERCICIOS DE ESTIRAMIENTO EN LA OFICINA VDT (8H laboradas)</string>
+    <string name="app_292">Ejercicio 1. Pasemos el brazo derecho por detrás de la cabeza con el codo doblado y con ayudarlo a bajar un poco más con la mano izquierda y sostenemos por 15 segundos, repetimos el ejercicio con el otro brazo</string>
+    <string name="app_293">Ejercicio 2. Girar la cabeza hacia la derecha y bájala sostén la posición con ayuda de tu mano derecha durante 15 segundos, repite lo mismo hacia la izquierda</string>
+    <string name="app_294">Ejercicio 3. Con tu espalda recta flexiona las rodillas, lleva los brazos hacia al frente y sostén 15 segundos</string>
+    <string name="app_295">Ejercicio 4. Con tu espalda recta lleva tus manos hacia atrás y enlaza tus manos de modo que las palmas de las manos se dirijan hacia el interior, tira suavemente hacia arriba hasta sentir una ligera tensión en la parte interior de los hombros y en el pecho, mantenlo durante 15 segundos</string>
+    <string name="app_296">Ejercicio 5. Lleva tus manos hacia el frente como si estuvieras realizando la señal de pare y lleva hacia atrás todos tus dedos con la otra mano, sostén por 15 segundos, descansa y repítelo con la otra mano</string>
+    <string name="app_297">Ejercicio 6. Colocamos las manos sobre el espaldar de la silla, estiramos los brazos y llevamos los codos hacia arriba por 15 segundos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    ACTIVIDAD 17 SINDROME
+    <string name="app_sindro5">SÍNTOMAS DEL SÍNDROME DEL TÚNEL DEL CARPO</string>
+    <string name="app_siNTO5">1.Sensaciones de calor</string>
+    <string name="app_cal5">2.Calambre o endurecimiento (en la palma o en la mano y los dedos especialmente el pulgar</string>
+    <string name="app_des5">3.Despertarse con sentir la necesidad de sacudir la mano o la muñeca.</string>
+    <string name="app_dis5">4.Disminución en el pulso.</string>
+    <string name="app_dif5">5.Dificultad de cerrar el puño, agarrar objetos.</string>
+    <string name="app_boton15">EJERCICIOS PARA PREVENIR EL SÍNDROME DEL TÚNEL DEL CARPO</string>
+    <string name="app_enfer">ENFERMEDADES MUSCULOESQUELÉTICAS EN COLOMBIA.</string>
+    <string name="app_boton25">Enfermedades musculoesqueléticas desarrolladas en la oficina</string>
+    <string name="app_boton35">Enfermedades musculoesqueléticas desarrolladas en puestos dinámicos</string>
+    <string name="app_laborales">ENFERMEDADES LABORALES EN COLOMBIA</string>
+
+    ACTIVIDAD SINDROME ILUMINACION
+    <string name="app_botoniluminacion2">HAZ TU PROPIO ESTUDIO DE ILUMINACIÓN</string>;
+    <string name="app_ilu15">PASO 1. INGRESA A LA PLAY STORE EN TU CELULAR</string>;
+    <string name="app_ilu25">PASO 2. BUSCA Y DESCARGA UNA APLICACIÓN QUE TE FUNCIONE COMO LUXÓMETRO (DESCARGA LA APLICACIÓN CON MÁS DESCARGAS Y MEJOR CALIFICADA), TAL Y COMO SE MUESTRA EN LA SIGUIENTE IMAGEN</string>
+    <string name="app_ilu35">PASO 3. TOMA 10 LECTURAS CON EL LUXÓMETRO EN DIFERENTES LUGARES DE TU PUESTO DE TRABAJO Y SACA EL PROMEDIO DEL TOTAL DE LAS LECTURAS TOMADAS</string>
+    <string name="app_ilu45">Nota: Tapa el led del celular antes de tomar cada lectura, con el fin de aumentar la precisión de la lectura tomada</string>
+    <string name="app_ilu55">PASO 4. COMPARA EL PROMEDIO DE LAS LECTURAS TOMADAS CON LA SIGUIENTE TABLA, DEPENDIENDO DEL LUGAR Y TU ACTIVIDAD DE TRABAJO</string>
+    <string name="app_ilu65">PASO 5. SELECCIONA E IMPLEMENTA LAS SIGUIENTES RECOMENDACIONES CON EL PROPÓSITO DE MEJORAR Y CUIDAR TU SALUD</string>
+    <string name="app_ilu75">RECOMENDACIONES GENERALES DE ILUMINACIÓN EN LA OFICINA</string>;
+    <string name="app_ilu85">1. Ubica el computador de tal manera que la pantalla no presente ni brillos ni reflejos de luz natural y/o artificial</string>
+    <string name="app_ilu95">2. Asegura que la iluminación este en los rangos establecidos por la legislación colombiana realizando las siguientes acciones</string>
+    <string name="app_ilu105">3. Cambia las luminarias por unas más potentes</string>;
+    <string name="app_ilu115">4. Cierra las cortinas y mantén prendidas las luminarias en caso que la luz natural presente brillos o reflejos sobre la pantalla</string>
+    <string name="app_ilu116">Según el ejemplo anterior tendríamos una promedio de iluminación de (478+411+443)/3 = 444Lux cumpliendo con la iluminación adecuada para oficinas de tipo computacional</string>
+    <string name="app_ilu117">Nota: si tomas más lecturas de iluminación la precisión del estudio aumentara </string>
+
+    ACTIVIDAD 18 ENFERMEDAES EN NLA OFICINA
+    <string name="app_titulo6">ENFERMEDADES MUSCULOESQUELÉTICAS DESARROLLADAS EN LA OFICINA</string>
+    <string name="app_texto26">1. Síndrome túnel del carpo</string>
+    <string name="app_texto36">2. Síndrome de Quervain</string>
+    <string name="app_texto46">3.Dedo de gatillo</string>
+
+    ACTIVIDAD 19 ENFERMEDADES PUESTOS DINAMICOS
+    <string name="app_texto17">ENFERMEDADES MUSCULOESQUELÉTICAS DESARROLLADAS EN PUESTOS DINÁMICOS</string>
+    <string name="app_texto27">1. Trastornos de discos intervertebrales</string>
+    <string name="app_texto37">2. Lumbagos</string>
+
+    PAGINA 20 ejercicios tunel del carpo
+    <string name="app_151">Ejercicio 1. Estiramos los brazos hacia abajo y abrimos y cerramos las manos por un tiempo de 15 segundos</string>
+    <string name="app_152">Ejercicio 2. Estiramos los brazos hacia adelante, abrimos las manos con las palmas hacia afuera los mas que podamos por un tiempo de 15 segundos</string>
+    <string name="app_153">Ejercicio 3. Estiramos los brazos hacia adelante, cerramos la mano en forma de puño con el pulgar hacia arriba y estiramos la mano hacia adentro por un tiempo de 15 segundos</string>
+    <string name="app_154">Ejercicio 4. Lleva tu mano hacia el frente con la palma hacia arriba y lleva hacia abajo los 5 dedos con la otra mano sostenla por 15 segundos descansa y repítelo con la otra mano</string>
+    <string name="app_155">Ejercicio 5. Une los dedos de la mano derecha con los dedos de la mano izquierda y abre y cierra por un tiempo de 15 segundos</string>
+    <string name="app_156">Repite los ejercicios anteriores</string>
+
+    ACTIVIDAD FRAGMENT POSTURAS
+    <string name="app_texto18">MEJORA TUS POSTURAS EN LA OFICINA</string>
+    <string name="app_texto28">1.CORRIGE LA ALTURA DE LA SILLA Y LA POSICIÓN DE LA RODILLA</string>
+    <string name="app_texto169">Tus rodillas deben formar un ángulo de 90° con respecto a tus muslos y pantorrillas</string>
+    <string name="app_texto38">CARACTERÍSTICAS DE LAS SILLAS</string>
+    <string name="app_texto48">2. EVALÚA EL ESPACIO PARA TUS PIERNAS DEBAJO DE LA MESA</string>
+    <string name="app_texto170">Evalúa que tengas suficiente espacio para tus piernas debajo de la mesa, y así garantizar tu comodidad, retira los objetos que estén debajo de la mesa</string>
+    <string name="app_texto58">3. CORRIGE LA POSTURA DE LOS HOMBROS, CODOS Y ANTEBRAZOS</string>
+    <string name="app_texto171">Asegura que tu brazo este en la misma dirección de tu columna formando un ángulo de 0° entre el eje de tu columna y el eje de tu brazo</string>
+    <string name="app_texto172">Asegura que tu brazo forme un ángulo de 90° con respecto a tu antebrazo, tal y como se observa en la siguiente figura</string>
+    <string name="app_texto173">Descansa tu antebrazo sobre una superficie y asegura que tu antebrazo forme una ángulo de 0° con respecto a la superficie tal y como se muestra en la siguiente figura LO RECOMENDABLE ES CONTAR CON UNA SILLA CON REPOSABRAZOS</string>
+    <string name="app_texto174">Asegura que la superficie de trabajo del mouse y el teclado sea la misma y que los ángulos de postura se mantengan como lo ilustran las imágenes anteriores</string>
+    <string name="app_texto68">4. CORRIGE LA INCLINACIÓN DEL RESPALDO DE LA SILLA PARA GARANTIZAR QUE LA COLUMNA FORME UN ÁNGULO DE 90 GRADOS CON LAS PIERNAS TAL Y COMO SE PUEDE OBSERVAR EN LA SIGUIENTE FIGURA</string>
+    <string name="app_texto175">Si tu silla no permite graduar la inclinación del respaldo; consigue una almohada que te permita tener la espalda recta y formar un ángulo de 90° con respecto a tus piernas, tal y como se observa en la siguiente ilustración</string>
+    <string name="app_texto78">5. CORRIGE LA SUPERFICIE DE TRABAJO CON RESPECTO A LOS BRAZOS</string>
+    <string name="app_texto88">6. CORRIGE LA UBICACIÓN DEL COMPUTADOR DE TAL MANERA QUE NO TENGAS QUE GIRAR EL CUELLO HACIA ALGÚN LADO</string>
+    <string name="app_texto98">7. SÍ MANEJAS DOCUMENTOS SOLICITA UN ATRIL O SOPORTE PARA ESTOS</string>
+    <string name="app_texto108">8. ALINEA AL MOUSE CON EL HOMBRO TAL Y COMO SE MUESTRA EN LA SIGUIENTE FIGURA</string>
+    <string name="app_texto118">9. TRABAJA CON EL MOUSE Y EL TECLADO A LA MISMA ALTURA</string>
+    <string name="app_texto128">10. UTILIZA MOUSE CON REPOSA MANOS BLANDOS</string>
+    <string name="app_texto138">11. EVITA UTILIZAR MOUSE PEQUEÑOS QUE REQUIERAN SER AGARRADOS CON LA MANO EN FORMA DE PINZA</string>
+    <string name="app_texto148">12. TRABAJA CON LAS MUÑECAS RECTAS Y EVITA QUE ESTAS FORMEN UN ÁNGULO MAYOR A 15 GRADOS CON RESPECTO AL ANTEBRAZO</string>
+    <string name="app_texto158">13. EVITA QUE LAS MUÑECAS ESTÉN DESVIADAS LATERALMENTE HACIA DENTRO O HACIA AFUERA</string>
+    <string name="app_texto168">14. UBICA EL TECLADO DE TAL FORMA QUE TUS HOMBROS, ANTEBRAZOS Y MUÑECAS SE ENCUENTREN EN LAS POSTURAS IDEALES TAL Y COMO SE MUESTRA EN LA SIGUIENTE FIGURA</string>
+
+    ACTIVIDAD 21 SILLA
+    <string name="app_texto110">1. Silla regulable a la altura</string>
+    <string name="app_texto210">2. Asiento regulable a la profundidad</string>
+    <string name="app_texto310">Los asientos regulables en profundidad permiten dejar un espacio libre entre el borde del asiento y la parte posterior de la rodilla (ver imagen inferior). El objetivo es evitar la presión del asiento sobre la parte posterior de la rodilla para favorecer la circulación sanguínea, especialmente el retorno venoso.</string>
+    <string name="app_texto410">3. Respaldo reclinable y posición de balanceo</string>
+    <string name="app_texto510">El respaldo debería poder regularse en diferentes puntos de inclinación, así como dejarlo en posición libre para permitir el balanceo durante las pausas o descansos. En caso de permitir el balanceo, la silla debería disponer de un regulador de tensión para poder ajustar la tensión del respaldo al peso de la persona. A mayor peso, mayor tensión y viceversa.</string>
+    <string name="app_texto610">4. Sistema sincro</string>
+    <string name="app_texto710">El sistema o mecanismo sincro permite inclinar el respaldo hacia atrás de forma sincronizada con el movimiento de la base del asiento para que el conjunto del cuerpo se mueva en sintonía.</string>
+    <string name="app_texto810">5. Diseño adaptable a las formas del cuerpo</string>
+    <string name="app_texto910">Para mantener la columna vertebral alineada y la zona lumbar protegida, el respaldo debe disponer de una prominencia lumbar que permita un apoyo estable y mantenga la espalda en una posición natural. Como cada espalda es diferente, el respaldo debe disponer de un accesorio que permita regular la altura y profundidad de la prominencia lumbar.</string>
+    <string name="app_texto1010">6. Materiales que favorezcan la transpiración</string>
+    <string name="app_text1110">Uno de los aspectos que puede generar disconfort es la falta de transpiración. Por ello, es importante que el respaldo de la silla esté construido con materiales transpirables, tipo malla o similar.</string>
+
+    ACTIVIDAD SLIDESHOW
+    <string name="app_visión3">COMO CUIDAR MI VISIÓN EN 5 SIMPLES PASOS</string>;
+    <string name="app_pasodistancia13">PASO 1: CORRIGE LA DISTANCIA VISUAL</string>;
+    <string name="app_pasodistancia23">PASO 2: CORRIGE EL ÁNGULO VISUAL</string>;
+    <string name="app_pasodistancia33">Ángulo visual lateral</string>;
+    <string name="app_pasodistancia43">Ángulo visual superior</string>;
+    <string name="app_pasodistancia53">Ubica tu computador de tal manera que la parte superior de la pantalla y tus ojos se encuentren a una distancia entre 45 y 75 cm:</string>
+    <string name="app_pasodistancia63">Ángulo visual superior</string>;
+    <string name="app_pasodistancia73">Ubica tu computador de tal manera que la pantalla se encuentre entre la línea natural de visión (zona azul), tal y como se muestra en la siguiente figura:</string>
+    <string name="app_pasodistancia83">Ubica tu computador de tal manera que la pantalla se encuentre entre la línea natural de visión superior (zona azul), tal y como se muestra en la siguiente figura:</string>
+    <string name="app_pasodistancia93">Ubica tu computador de tal manera que la pantalla no presente ni brillos ni reflejos de luz artificial y/o natural</string>
+    <string name="app_pasoiluminación3">PASO 3: PROTEGE TUS OJOS DE LA ILUMINACIÓN</string>;
+    <string name="app_vision32">PASO 4: REVISA TUS EXÁMENES OCUPACIONALES Y SIGUE LAS INDICACIONES DADAS POR EL MÉDICO OCUPACIONAL COMO:</string>
+    <string name="app_33">Uso permanente de corrección óptica </string>;
+    <string name="app_34">Actualización de corrección óptica</string>;
+    <string name="app_pasopausas3">PASO 5: PAUSAS ACTIVAS VISUALES</string>
+    <string name="app_pasojos">CONSEJOS PARA CUIDAR TUS OJOS FUERA DE LA OFICINA</string>
+
+    ACTIVIDAD 22 PAUSAS VISUALES
+    <string name="app_131">PAUSAS ACTIVAS VISUALES</string>
+    <string name="app_132">Ejercicio # 1. Cubre tus ojos con la palma de tus manos por un minuto</string>
+    <string name="app_133">Ejercicio # 2. Parpadea durante 45 segundos</string>
+    <string name="app_134">Ejercicio # 3. Lleva la mirada lentamente hacia arriba, hacia abajo y hacia un lado, descansa y repítelo 3 veces</string>
+    <string name="app_135">Ejercicio # 4. Lleva la mirada hacia la esquina superior derecha, inferior izquierda, superior izquierda e inferior derecha, descansa y repítelo tres veces</string>
+    <string name="app_136">Ejercicio # 5. Abre los ojos lo más que puedas y vuelve a cerrarlos fuertemente, descansa y repítelo 3 veces</string>
+    <string name="app_137">Ejercicio # 6. Estira tu mano hacia al frente y levanta tu dedo pulgar, enfoca tu mirada en el dedo por 5 segundos, luego trata de mirar un punto lejano por otros 5 segundos e inicia de nuevo hazlo 5 veces</string>
+
+
+    ACTIVIDAD 23 CONSEJOS OJOS
+    <string name="app_141">1. En la noche activa la iluminación de tu celular en modo nocturno</string>
+    <string name="app_142">2. Ubica el televisor de tal manera que las luminarias no se reflejen en tus ojos</string>
+    <string name="app_143">3. Protege tus ojos con gafas solares </string>
+    <string name="app_144">4. No leas o estudies cuando estés demasiado cansado o a punto de dormirte</string>
+    <string name="app_145">5. No leas o estudies al levantarte por la mañana, espera al menos una hora a que el ojo se adapte.</string>
+    <string name="app_146">6. No veas la televisión a una distancia inferior a 2 metros y asegúrate de mantener una buena postura. Debes tener iluminada la habitación, nunca a oscuras.</string>
+    <string name="app_147">7. No te acerques en exceso al leer ni escribir, ni ladees o gires tu cabeza o espalda.</string>
+    <string name="app_148">8. Cuando vayas en un vehículo evita la lectura, uso de celular u otras actividades de cerca.</string>
+    <string name="app_149">9. Ajusta el tamaño de la letra de la pantalla del computador o celular a uno que te resulte fácil de leer.</string>
+    <string name="app_1490">10. Intenta descansar entre 2 y 3 minutos cada 15 ó 20 minutos. Aprovecha para estirar los brazos, las piernas y la espalda.</string>
+    <string name="app_1491">11. Sométete a revisiones de la vista por lo menos una vez al año. Sobre todo a partir de los 40 años y si hay antecedentes de patologías relacionadas con los ojos.</string>
+
+    ACTIVIDAD DESCANSOS
+    <string name="app_botondescansos2">REALIZA TUS DESCANSOS PERSONALIZADOS</string>;
+    <string name="app_48O">El descanso debería poder realizarse cuando las personas lo necesiten en función del ritmo y las exigencias de propio trabajo</string>
+    <string name="app_481">Para que puedas implementar los descansos en condiciones ideales debes cumplir con el siguiente equilibrio saludable</string>
+    <string name="app_482">Más información</string>
+    <string name="app_61">PASO 1: Selecciona el grupo jerárquico al que perteneces</string>
+    <string name="app_62">Nivel directivo (ACCIONISTAS - REPRESENTANTE LEGAL)</string>
+    <string name="app_63">Nivel ejecutivo (GERENTE)</string>
+    <string name="app_64">Nivel asesor (SECRETARIO-ASESORÍA TÉCNICA)</string>
+    <string name="app_65">Nivel administrativo y financiero (JURÍDICO-TESORERO-CONTADOR)</string>
+    <string name="app_66">Nivel operacional (JEFES-SUPERVISORES)</string>
+    <string name="app_67">Nivel operativo (Operarios y funcionarios)</string>
+
+    ACTIVIDAD 24 MAS INFO DESCANSOS
+    <string name="app591">COMPONENTES ESENCIALES PARA LA EFECTIVIDAD DEL DESCANSO</string>
+    <string name="app592">1. Contenido del tiempo de descanso</string>
+    <string name="app593">2. Frecuencia de pausas y su duración</string>
+    <string name="app594">3. Calidad del espacio de descanso</string>
+    <string name="app595">El contenido del tiempo de descanso varía dependiendo de la actividad que se ejecute y es indispensable para disfrutar de un descanso agradable</string>
+    <string name="app596">Contenidos de tiempo de descanso</string>
+    <string name="app597">Para actividades de alta demanda FÍSICA:</string>
+    <string name="app598">•Música relajante</string>
+    <string name="app599">•Juegos mentales</string>
+    <string name="app5990">•Conversación</string>
+    <string name="app5991">•Videos de entretenimiento</string>
+    <string name="app5992">•Consultas</string>
+    <string name="app5993">Para actividades de alta demanda MENTAL:</string>
+    <string name="app5994">•Pausas activas</string>
+    <string name="app5995">•Paseos</string>
+    <string name="app5996">•Tomar una taza de café</string>
+    <string name="app5997">•Practicar una actividad deportiva</string>
+    <string name="app5998">La planificación de la frecuencia de pausas y su duración, depende totalmente de la actividad que se ejecute y esta debería disponer de autonomía y libertad de planificación de los trabajadores en aquellas empresas con organización fundamentada en las competencias de las personas y el autocontrol del trabajo con objetivos acordados</string>
+    <string name="app5999">Los espacios de descanso deben ser diferentes al lugar de trabajo ya que estos permiten desconectar mentalmente la labor que se esté realizando y favorecer así el descanso</string>
+    <string name="app59991">Consejo: Es conveniente concebir espacios de uso colectivo que integren adecuadamente cierto tipo de descansos, sin tener que ser específicos para ello</string>
+
+    ACTIVIDAD 25 JUEGOS MENTALES
+    <string name="app_P61">REALIZA LOS SIGUIENTES EJERCICIOS MENTALES</string>
+    <string name="appP62">Ejercicio mentales YouTube.</string>
+    <string name="appP63">¿QUIERES NUEVOS EJERCICIOS?.</string>
+    <string name="app64">INGRESA AQUÍ AHORA</string>
+
+    ACTIVIDAD 26 JUEGOS MENTALES FACEBOOK
+    <string name="appP64">1. Ingresa a tu facebook</string>
+    <string name="appP65">2. Únete al grupo de ejercicios mentales y disfruta de los mas recientes y mejores ejercicios</string>
+
+    ACTIVIDAD 27 ESTRES
+    <string name="app_381">EVITA EL ESTRÉS, LA ANSIEDAD Y LAS DEPRESIONES</string>
+    <string name="app_382">Videos de comedia</string>
+    <string name="app_383">5 FORMAS DE PREVENIR LA ACUMULACIÓN DE ESTRÉS</string>
+    <string name="app_384">1. Equilibra tus obligaciones (como las tareas escolares) con actividades de las que disfrutas (como relajarte o pasar tiempo con tus amigos).</string>
+    <string name="app_385">Todo es cuestión de equilibrio: todo responsabilidades y trabajo y nada de juego y disfrute está mal. Pero si tu horario está tan lleno de actividades, que no te queda tiempo para hacer los deberes, eso también te estresará. </string>
+    <string name="app_386">2. Organiza tus obligaciones.</string>
+    <string name="app_387">Utiliza un calendario o aplicación de planificación para registrar tus deberes escolares, tus tareas domésticas, tus prácticas y otras obligaciones. Por descontado, planificar no sirve de nada si no haces lo que planificas: controlar el estrés también significa estudiar con regularidad, mantenerte al día en las tareas escolares, y superar la tendencia a dejarlo todo para después. Tómate tu tiempo para reflexionar un poco cada día sobre cómo te están yendo las cosas. ¿En qué necesitas trabajar? ¿Lo haces? ¿Dispones de tiempo para hacerlo? </string>
+    <string name="app_388">3. Come alimentos saludables.</string>
+    <string name="app_389">Lo que comes afecta a tu estado de ánimo y a tu nivel de energía y de estrés. Comer de forma saludable no significa evitar todos los manjares; de nuevo, la importancia del equilibrio. Está bien permitirte el gusto de tomarte un helado de vez en cuando, si comes ensalada y carne de pavo con pan integral a la hora de comer. Pero, si los helados y los dulces son tu principal fuente de energía, ¡es muy probable que estés de malhumor y estresado!  </string>
+    <string name="app381">4. Duerme bien. </string>
+    <string name="app382">Esto puede parecer pan comido. Después de todo, ¿a quién no le gusta dormir? Pero dormir lo suficiente es algo en que nos debemos focalizar porque es fácil dejar que los deberes, hablar con los amigos o un exceso de televisión se interpongan en el tiempo que pasas durmiendo, por mucho que te guste dormir. </string>
+    <string name="app383">5. Dedica tiempo a hacer ejercicio cada día.</string>
+    <string name="app384">Es difícil estar ansioso mientras haces respiraciones profundas al correr, bajas por una colina con la bici o juegas al escondite con tus amigos. El ejercicio físico no solo aleja nuestra mente del estrés, también libera sustancias químicas en nuestros cerebros que nos ayudan a encontrarnos mejor. </string>
+    <string name="app385">18 CONSEJOS PARA EVITAR LA ANSIEDAD Y LA DEPRESIÓN</string>
+    <string name="app386">1. Dedicar tiempo a las tareas</string>
+    <string name="app387">El tiempo no corre en tu contra para realizar ciertas tareas, así que dedícales el tiempo necesario.  Comer siempre sentado o salir de casa con bastante antelación para llegar a los sitios son alguno de los hábitos cotidianos que debemos realizar para no aumentar nuestros niveles de ansiedad.</string>
+    <string name="app388">2.  Empieza y acaba</string>
+    <string name="app389">“No dejes para mañana lo que puedas hacer hoy”, esta frase no es sólo un dicho sino que es uno de los consejos principales para evitar la ansiedad. Sí disponemos de tiempo y recursos para terminar una determinada actividad es necesario que la acabemos ya que sino en nuestro cerebro se generará esa sensación de ansiedad por tener todavía una "tarea pendiente".</string>
+    <string name="ap380">3. Anticiparnos</string>
+    <string name="ap381">También es muy importante que vayamos asimilando internamente aquellas situaciones que todavía no han pasado pero que sabemos que vamos a tener que solventar. De esta forma, habremos planificado con antelación como enfrentarnos a una tarea y la podremos terminar con la mayor brevedad posible.</string>
+    <string name="ap382">4. Controlar ‘tics’</string>
+    <string name="ap383">Una persona que sufre ansiedad generalmente suele ‘canalizarlo’ a través de su cuerpo con movimientos repetitivos; mover el pie, andar de un lado a otro por la casa o ‘juguetear’ con algún objeto que tengan a mano son alguno de los ‘tics’ más habituales. ¿Pero lo podemos controlar? Aunque lo hacemos inconscientemente, si sabemos que realizando esa costumbre nos genera todavía más nerviosismo, debemos parar en ese momento, respirar profundamente y autocontrolarnos realizando otra tarea.</string>
+    <string name="ap384">5. Delegar y negarse</string>
+    <string name="ap385">Hay que ser consciente que todos tenemos un límite físico y mental y que si no estamos capacitados para desarrollar ciertas tareas por falta de recursos o tiempo debemos aprender a delegar en otras personas o a negarnos rotundamente. ¿Realizar esa actividad, hacer un favor a otra persona o cargándote tú más faena de la que puedes soportar te va a compensar? Aunque te parezca una pregunta absurda, antes de aceptar algo debes hacer un pequeño análisis interno del beneficio que esto te reporta, ya que si lo haces por compromiso o sin motivación acabará generándote ansiedad.</string>
+    <string name="ap386">6. Tiempo para ti</string>
+    <string name="ap387">Tener un hobby, disfrutar de una vida social activa, disponer de tiempo para pasear o simplemente evadirnos de las actividades rutinarias son las claves para reducir nuestra ansiedad. Planificar las actividades diarias ayudarán a que tu cerebro sepa con antelación el ‘calendario’ que tú mismo le has preparado; pero esto debe ir relacionado directamente con persistencia y fuerza de voluntad para hacer todo lo que nos hemos proponemos. De esta forma, nos organizaremos el tiempo y disfrutaremos del ocio como una recompensa al trabajo realizado.</string>
+    <string name="ap388">7. Relajación</string>
+    <string name="ap389">Aprender a controlar nuestra respiración, realizar ejercicios de ‘tai chi’ o yoga o relajar nuestros músculos nos ayudarán a controlar nuestra ansiedad y poder manejar aquellas situaciones que nos crean estrés. Cuando una persona lleva muchos años conviviendo con niveles de ansiedad muy altos, es muy difícil evitarla por completo a pesar de este tipo de ejercicios pero sí que nos ayudará a que ésta no se ‘apodere’ de nuestro sistema nervioso.</string>
+    <string name="a380">8.  Dormir bien</string>
+    <string name="a381">Las preocupaciones o un ritmo de vida estresado son los peores aliados para no conciliar el sueño, y además, ambas nos genera más ansiedad todavía. Por eso, hay que dormir el tiempo suficiente y no tener pensamientos que nos agobien antes de acostarnos. Si hemos llevado a cabo los anteriores consejos, en concreto, una alimentación saludable y un mínimo esfuerzo físico mediante el ejercicio, conciliaremos el sueño sin la que éste nos genere más ansiedad.</string>
+    <string name="a382">La ansiedad es uno de los problemas de salud mental más frecuentes, junto con la depresión. ¡Aprende a controlar tu vida!</string>
+    <string name="a3822">9. Hábitos alimenticios</string>
+    <string name="a383">El ritmo de vida que llevamos en la actualidad o la falta de tiempo para dedicar a la cocina, nos hacen que nuestros hábitos alimenticios no sean siempre los más adecuados para nuestra salud. Llevar una nutrición variada y comer pocas cantidades pero repartidas en 5 comidas al día, nos evitará tener problemas estomacales que muchas veces afectan directamente con nuestro estado de ansiedad.</string>
+    <string name="a384">10. Practica deporte</string>
+    <string name="a385">Poder evadir nuestra mente a través del ejercicio físico nos ayudará a combatir la ansiedad. ¿Por qué? Tonificando nuestros músculos haremos que éstos no queden rígidos y nuestro sistema nervioso no esté tan alterado; sentirnos ligeramente cansados tras una actividad deportiva fomentará que conciliemos el sueño con mayor facilidad.</string>
+    <string name="a386">11. Mejora la inteligencia emocional (IE)</string>
+    <string name="a387">Manejar las emociones de forma inteligente se considera fundamental para la propia adaptación física y psicológica. La inteligencia emocional se entiende como un conjunto de habilidades que permiten percibir, valorar y expresar emociones, acceder a ellas, comprenderlas y, por último, regularlas. La experiencia emocional puede ser vivida de dos formas distintas: la experiencia directa y la reflexión acerca de la experiencia.</string>
+    <string name="a388">12. Ten una vida social activa y practica tus hobbies</string>
+    <string name="a389">Tener una vida social activa se ha demostrado que es eficaz para prevenir la depresión. Rodearse de buenos amigos, acudir a eventos y practicar los hobbies que nos gustan, son positivos para tener una vida más plena.</string>
+    <string name="b380">13. Deja de compararte con los demás y deja de pensar en lo que los demás piensan de ti</string>
+    <string name="b381">Compararse continuamente con los demás puede tener consecuencias negativas para tu autoestima. El mundo en el que vivimos nos exige ser perfectos en todo y en todo momento, incluso de manera irracional. Pero no sólo compararse con los demás es negativo, sino que es habitual estar pendientes de gustar los demás todo el tiempo.</string>
+    <string name="b382">14. Vive el presente</string>
+    <string name="b383">Vivir el presente cuida tu salud emocional y tu estado anímico. Esto parece fácil de hacer, pero habitualmente estamos con el cuerpo en el presente pero la mente en el pasado o el futuro. Aprender a vivir en el presente te ayuda a mejorar el bienestar y te protege contra la depresión.</string>
+    <string name="b384">15. Ponte metas realistas</string>
+    <string name="b385">Incluso si comes sano, haces deporte y vives el presente, nada te motivará más que tener un propósito en la vida o unos objetivos que conseguir. Una investigación de Blue Zones, concluyó que aquellos que tenían un propósito en la vida vivían hasta siete años más.</string>
+    <string name="b386">16. Acéptate y perdónate</string>
+    <string name="b387">Aprender a perdonarse y a aceptarse a uno mismo es un aspecto importante para poder prevenir la depresión. Es decir, que es necesario perdonarnos por los errores cometidos o por las cosas que no hicimos como debíamos. El pasado no puede cambiarse, pero la percepción que tenemos sobre el pasado sí.</string>
+    <string name="b388">17.Aprende a vivir con la incertidumbre</string>
+    <string name="b389">Desde jóvenes nos han educado para tener una vida tranquila y perfecta, pero la realidad no siempre es así, especialmente en los tiempos que corren. Por ejemplo, hace poco más de una década era habitual tener un puesto de trabajo para toda la vida. Hoy en día, tener un empleo estable se ha convertido en algo extraño en muchas profesiones. Por tanto, hoy estamos aquí, pero mañana... quién sabe. Tener una mentalidad flexible es mucho más adaptativo que tener una mentalidad rígida, y aprender a vivir con la incertidumbre y con una actitud positiva frente al cambio, te convierte en una persona mucho más preparada para la realidad actual.</string>
+    <string name="c380">18. Evita el alcohol y las drogas</string>
+    <string name="c381">El alcohol es una droga de legal y socialmente aceptada que puede parecer inofensiva. La realidad es que, consumida de manera frecuente, puede causar problemas serios para la salud. Otras drogas como la marihuana, que también son catalogadas como drogas blandas, pueden provocar trastornos depresivos.</string>
+
+
+    ACTIVIDAD 28 DECANSOS NIVEL DIRECTIVO
+    <string name="app_texto42">DESCANSOS PERSONALIZADOS NIVEL DIRECTIVO (ACCIONISTAS-REPRESENTANTE LEGAL) </string>
+    <string name="app_texto421">La planificación de la frecuencia de descansos y su duración es muy compleja cuando el trabajo demanda de esfuerzo intelectual o trabajo creativo de alto nivel de concentración</string>
+    <string name="app_texto422">CARACTERÍSTICAS DE TU DESCANSO PERSONALIZADO</string>
+    <string name="app_texto423">1. Libertad de elección del momento de descanso</string>
+    <string name="app_texto426">2. Preferiblemente descansar en un lugar diferente al del trabajo</string>
+    <string name="app_texto424">3. Pausas cortas pero de cierta frecuencia (sin interferir el natural desarrollo de los procesos)</string>
+    <string name="app_texto427">4. El contenido del descanso para actividades de alto nivel de esfuerzo mental podría ser (Ejercicios de gimnasia o relajación, paseos e incluso ir a tomar café fuera de la oficina)</string>
+    <string name="app_texto425">Consejo: Una organización del trabajo fundamentada en las competencias de las personas y el autocontrol del trabajo con objetivos acordados, debería facilitar que las personas dispusieran de la autonomía y libertad necesarias para organizarse</string>
+
+    ACTIVIDAD 29 NIVEL EJECUTIVO
+    <string name="app_texto43">DESCANSOS PERSONALIZADOS NIVEL EJECUTIVO (GERENTE)</string>
+
+    ACTIVIDAD 30 NIVEL ASESOR
+    <string name="app_texto44">DESCANSOS PERSONALIZADOS NIVEL ASESOR (SECRETARIOS-ASESORES TÉCNICOS)</string>
+
+    ACTIVIDAD 31 NIVEL ADMINISTRATIVO Y FINANCIERO
+    <string name="app_texto45">DESCANSOS PERSONALIZADOS NIVEL ADMINISTRATIVO Y FINANCIERO (JURÍDICO-TESORERO-CONTADOR ENTRE OTROS)</string>
+    <string name="app_451">5. Actividades grupales como conversación, celebración de cumpleaños, juegos deportivos o lúdicos, entre otros que te ayuden a despejar la mente y tener un descanso agradable</string>
+
+    ACTIVIDAD 32 NIVEL JEFES SUPERVISORES
+    <string name="app_46">DESCANSOS PERSONALIZADOS NIVEL OPERACIONAL (JEFES SUPERVISORES)</string>
+    <string name="app_47">Una actividad laboral con notorio esfuerzo físico demanda reposo o poder realizar algunos ejercicios de recuperación. Además, podrían permitirse algunas actividades de componente intelectual</string>
+    <string name="app_48">4.Juegos mentales</string>
+    <string name="app_49">5.Videos de entretenimiento</string>
+    <string name="app_4990">6.Escuchar música relajante, lectura, consultas</string>
+
+    ACTIVIDAD 33 NIVEL OPERATIVO FUNCIONARIOS
+    <string name="app_texto47">DESCANSOS PERSONALIZADOS NIVEL OPERATIVO (OPERARIOS Y FUNCIONARIOS)</string>
+    <string name="app_471">1.Ejercicios de gimnasia o relajación (posturas relajantes)</string>
+
+    ACTIVIDAD 34 HABITOS Y ESTILOS DE VIDA SALUDABLES
+    <string name="app_habitos">HÁBITOS Y ESTILOS DE VIDA SALUDABLES</string>;
+    <string name="app_texto71">NUTRICIÓN</string>
+    <string name="app_texto72">EJERCICIO FÍSICO</string>
+    <string name="app_texto73">EJERCICIO MENTAL</string>
+    <string name="app_texto74">HÁBITOS HIGIÉNICOS</string>
+    <string name="app_texto75">HÁBITOS DE SUEÑO SALUDABLE</string>
+    <string name="app_texto76">DISFRUTA TU TIEMPO LIBRE</string>
+    <string name="app_texto77">PREVIENE ACCIDENTES DE TRABAJO, DOMÉSTICOS Y DE TRANSITO</string>
+    <string name="app_78">EVITA EL ESTRÉS, LA ANSIEDAD Y LAS DEPRESIONES</string>
+    <string name="app_texto79">EQUILIBRIO MENTAL</string>
+    <string name="app_texto790">EQUILIBRIO SOCIAL</string>
+    <string name="app_texto791">HÁBITOS Y PRODUCTOS TÓXICOS</string>
+
+    ACTIVIDAD 35 MEJORA TU NUTRICION POR NIVELES
+    <string name="app_311">MEJORA TU NUTRICIÓN POR NIVELES</string>
+    <string name="app_312">NIVEL 1. MODO AMATEUR</string>
+    <string name="app_313">NIVEL 2. MODO PRINCIPIANTE</string>
+    <string name="app_314">NIVEL 3. MODO NORMAL</string>
+    <string name="app_315">NIVEL 4. MODO PROFESIONAL</string>
+    <string name="app_316">NIVEL 5. MODO LEYENDA</string>
+    <string name="app_317">ANTES DE EMPEZAR REVISA LA SIGUIENTE INFORMACIÓN:</string>
+    <string name="app_318">EMPIEZA POR PARTES  ...   DA ¡CLIK AQUÍ Y ENTÉRATE COMO!</string>
+    <string name="app_319">IMPLEMENTA CAMBIOS SALUDABLES....REVÍSALOS ¡AQUÍ AHORA!</string>
+    <string name="app_320">BENEFICIOS DE TOMAR AGUA</string>
+    <string name="app_3210">CONSEJOS SALUDABLES</string>
+    <string name="app_322">RECETAS Y SNACKS (aperitivos) SALUDABLES </string>
+    <string name="app_323">CONOCE SOBRE LOS MACRONUTRIENTES</string>
+
+    ACTIVIDAD 36 NUTRICION NIVEL 1
+    <string name="app_pag60">DESAYUNOS SALUDABLES</string>
+    <string name="a61">ALMUERZOS SALUDABLES</string>
+    <string name="a62">ONCES SALUDABLES</string>
+    <string name="a63">CENAS SALUDABLES</string>
+    <string name="app_pag331">MEJORAR TU NUTRICIÓN NIVEL 1</string>
+    <string name="app_pag3392">Procura reducir el consumo de azúcar y sal en tus comidas gradualmente.</string>
+    <string name="app_pag3393">Haz variaciones en tu dieta habitual y procura comer de todo. Evita la monotonía.</string>
+    <string name="app_pag3394">Lleva contigo siempre una botella de agua y toma gradualmente según tu  necesidad </string>
+    <string name="app_pag3395">Queremos que disfrutes tu proceso de cambio, por lo tanto te damos libertad para que implementes tus desayunos, almuerzos, onces y cena saludables, el día que prefieras</string>
+    <string name="app_pag333">En el nivel 1 debes como mínimo implementar un desayuno, un almuerzo, unas onces y una cena saludable por semana</string>
+    <string name="app_pag3391">QUEREMOS QUE DISFRUTES TU PROCESO DE CAMBIO así que Pasa al nivel 2 solo si haz cumplido el 100% del primer nivel</string>
+
+    DESAYUNOS SALUDABLES
+    <string name="app61">Una tortilla de jamón york es una de las opciones más sanas para desayunar ya que es fuente de proteínas de alta calidad. Toma también una pieza de fruta y tendrás el desayuno perfecto.</string>
+    <string name="app62">Un desayuno sencillo que se puede preparar en poco menos de dos minutos: vuelca un yogur natural sin azúcar en un bol -o un yogur griego, que contiene más proteínas- y añádele nueces, anacardos o almendras. ¡Delicioso!</string>
+    <string name="app63">Si lo prefieres, también puedes preparar un bol de yogur con fruta -la naranja, el plátano, el kiwi y las frutas del bosque combinan especialmente bien con este lácteo- y añadirle un puñadito de semillas de chía, que aportan grasas de calidad.</string>
+    <string name="app_pag64">Cuando los compres, fíjate en el etiquetado y asegúrate de que sean orgánicos, ecológicos o integrales. Puedes tomarlos con leche semidesnatada o leches vegetales. ¡Un desayuno saciante y sin azúcares!</string>
+    <string name="a65">Un sándwich integral que puedes preparar en dos minutos y que resulta de lo más equilibrado: la combinación de grasas ‘buenas’, proteínas y carbohidratos de absorción lenta te saciará durante toda la mañana.</string>
+    <string name="a601">Las tostadas son una opción recurrente de nuestros desayunos. Dale una vuelta y prepara unas tostadas de pan integral con queso de untar y fresas. Acaba con un puñadito de semillas de chía. Una elaboración completa con vitaminas, proteínas, hidratos de carbono y fibra.</string>
+    <string name="a602">yogur y acompañándolo con un plátano cortado en láminas y un puñado de nueces picadas. Para endulzarlo apuesta por la miel.</string>
+    <string name="a603">aplasta dos plátanos con un tenedor (que sustituirán al azúcar) y añádelo al huevo batido, un par de cucharadas de cacao puro en polvo y un poco de harina (si ves que la masa está muy líquida). Usa una sartén antideslizante para que tus tortitas salgan perfectas. </string>
+
+    <string name="a604">Mezcla yogur griego con muesli, pica una pieza de melocotón y mételo unos segundos al microondas para que se ablande y quede más meloso. Coloca la mezcla en un vasito en capas: primero la fruta y después el yogur. Para un toque extra añádele un poco de miel.</string>
+    <string name="a605">El porridge es una mezcla con la que podrás experimentar tanto como quieras. En esta ocasión prepara la mezcla de avena con yogur y leche. A la mañana siguiente añade moras, semillas de chía y medio plátano picado. ¡Toda una delicia!</string>
+    <string name="a606">Los huevos a la plancha son un desayuno fácil y muy recurrido. Dale una vuelta colocándolos en una tostada. Incorpora unas rodajas de tomates y pepino, que le darán el frescor que necesita. Para un extra de fibra añade semillas de ajonjolí.</string>
+    <string name="a607">Para preparar esta receta, es un pequeño recipiente mezcla yogur natural con un poco de avena, después agrega trozos de mango (o tu fruta preferida)</string>
+
+    <string name="a608">Si quieres prepararte un sándwich, mejor que sea con pan integral o de centeno. Te proponemos otro muy saludable elaborado con lonchas finas de pavo, lechuga, tomate y pepino. Puedes incorporarle un chorrito de aceite para hacerlo más sabroso</string>
+    <string name="a609">Unas tortitas a base de huevo, harina de avena y plátano constituyen un desayuno delicioso a la par que saludable. Bate y tritura los ingredientes, calienta una sartén y en apenas unos minutos podrás tenerlas listas.</string>
+    <string name="a6090">Tritura un plátano con un poco de yogurt hasta tener una mezcla homogénea, puedes agregar miel o canela al gusto, y acompáñalo con un poco de mango o fresa (o tu fruta preferida)</string>
+    <string name="a6091">Muele un poco de aguacate y úntalo en una rebanada de pan multigramo, puedes agregar pepino, tomate, cebolla y un poco de germinado</string>
+
+    <string name="a6092">El porridge es un desayuno típico de la comida inglesa muy saciante. Para prepararlo solo necesitas cocer un poco de avena con agua o leche durante 10 minutos, volcar la masa en plato y acompañarla de fruta. ¡El plátano, los arándanos y las fresas combinan muy bien!</string>
+    <string name="a6093">Una de las preparaciones más famosas de la dieta mediterránea. Corta una rebanada de pan -mejor si es integral-, echa un poquito de aceite de oliva virgen y un poco de tomate natural triturado o picado. Si quieres también puedes incluir un poco de jamón serrano. ¡Delicioso!</string>
+    <string name="a6094">Unas tostadas nutritivas, bajas en grasas y ricas en proteínas. Para elaborarlas corta dos rebanadas de pan integral o de centeno, y otras dos rebanadas de aguacate. Prepara un huevo escalfado o cocido y colócalo por encima. ¡Riquísimo!</string>
+    <string name="app_pag526">Una tortilla de jamón york es una de las opciones más sanas para desayunar ya que es fuente de proteínas de alta calidad. Toma también una pieza de fruta y tendrás el desayuno perfecto</string>
+
+    ACTIVIDAD 38 NUTRICION NIVEL 2
+    <string name="app_pag490">MEJORAR TU NUTRICIÓN NIVEL 2</string>
+    <string name="app_pag493">En el nivel 2 debes como mínimo implementar dos veces a la semana un desayuno, un almuerzo, unas onces y una cena saludable</string>
+    <string name="app_pag491">QUEREMOS QUE DISFRUTES TU PROCESO DE CAMBIO así que Pasa al nivel 3 solo si has cumplido el 100% del SEGUNDO nivel</string>
+
+    ACTIVIDAD 39 ALMUERZOS
+    <string name="a611">Ensalada de pollo troceado</string>
+    <string name="a612">Ensalada de atún</string>
+    <string name="a613">Arroz frito con verduras</string>
+    <string name="a614">Ensalada de pollo troceado y garbanzos</string>
+    <string name="a615">Ensalada de pollo y manzana Fuji</string>
+
+
+    ACTIVIDAD 40 ONCES SALUDABLES
+    <string name="a621">Opción 1:</string>
+    <string name="a622">Un sándwich de jamón y queso, 1 manzana, 1 chocolatina pequeña, Jugo de fruta natural con poca azúcar</string>
+    <string name="a623">Opción 2:</string>
+    <string name="a624">Opción Yogur con cereal, 1 banano, Galletas con fibra o una barra de cereal:</string>
+    <string name="a625">Opción 3:</string>
+    <string name="a626">Leche saborizada con chocolate en polvo, Huevo cocinado, Porción de fresas con granola y miel:</string>
+    <string name="a627">Opción 4:</string>
+    <string name="a628">Jugo de fruta natural, Rodaja de piña fresca, Sándwich de mantequilla de maní y mermelada:</string>
+    <string name="a629">Opción 5:</string>
+    <string name="a6291">Jugo de fruta natural en leche, 1 barra de granola, Tortilla rellena de jamón y queso, 1 pera:</string>
+    <string name="a6292">Opción 6:</string>
+    <string name="a6293">Jugo de fruta natural con poca azúcar, 1 granadilla, 1 quesadilla (queso relleno de bocadillo), Porción de uvas pasas:</string>
+    <string name="a6294">Opción 7:</string>
+    <string name="a6295">Yogur, Sándwich de pollo con queso, Porción de frutos secos, 1 naranja:</string>
+    <string name="a6296">Opción 8:</string>
+    <string name="a6297">Avena, 1 muffin, 2 tajadas de jamón de pollo, Porción de mango maduro:</string>
+    <string name="a6298">Opción 9:</string>
+    <string name="a6299">Leche semi descremada, Croissant relleno de bocadillo y queso, Porción de frutas:</string>
+    <string name="a629991">Opción 10:</string>
+    <string name="a629992">Leche saborizada, Galletas saladas, 1 porción de mermelada, 1 kiwi, 5 uvas:</string>
+    <string name="op1">Opción 11:</string>
+    <string name="op2">Opción 12:</string>
+    <string name="op3">Opción 13:</string>
+    <string name="op4">Opción 14:</string>
+    <string name="op5">Opción 15:</string>
+    <string name="op6">Opción 16:</string>
+    <string name="op7">Opción 17:</string>
+    <string name="op8">Opción 18:</string>
+    <string name="op9">Opción 19:</string>
+
+
+    ACTIVIDAD 41 CENAS SALUDABLES
+    <string name="a631">Crema de brócoli con queso receta sencilla</string>
+    <string name="a632">Ensalada de pasta con salsa rosada y huevo</string>
+    <string name="a633">Crema de espinacas y zanahoria</string>
+    <string name="a634">Tortilla de espinacas</string>
+    <string name="a635">Sándwich vegetal con aguacate</string>
+    <string name="a636">Tortilla francesa con queso</string>
+    <string name="a637">Rollitos de queso y jamón york</string>
+    <string name="a638">Hamburguesa con lentejas y arroz</string>
+    <string name="a639">Pechugas de pollo al limón</string>
+    <string name="a6391">Ensalada de papa y aguacate</string>
+    <string name="a6392">Ensalada de coliflor y zanahoria</string>
+    <string name="a6393">Ensalada mixta con atún</string>
+    <string name="a6396">brochetas de verduras asadas al horno</string>
+    <string name="a6397">Queso a la plancha con cebolla caramelizada</string>
+    <string name="a6398">Timbal de verduras asadas, con queso gratinado</string>
+    <string name="a6399">Macedonia de frutas sencilla con chocolate y frutos secos</string>
+    <string name="a63991">Ensalada de aguacate atún y tomate</string>
+
+    ACTIVIDAD 42 NUTRICION NIVEL 3
+    <string name="app_pag501">MEJORAR TU NUTRICIÓN NIVEL 3</string>
+    <string name="app_pag503">En el nivel 3 debes como mínimo implementar a la semana 4 desayunos, 4 almuerzos, 4 onces y 4 cenas saludable</string>
+    <string name="app_pag502">QUEREMOS QUE DISFRUTES TU PROCESO DE CAMBIO así que Pasa al nivel 4 solo si has cumplido el 100% del TERCER nivel</string>
+
+    ACTIVIDAD 43 NUTRICION NIVEL 4
+    <string name="app_pag511">MEJORAR TU NUTRICIÓN NIVEL 4</string>
+    <string name="app_pag513">En el nivel 4 debes como mínimo implementar a la semana 6 desayunos, 6 almuerzos, 6 onces y 6 cenas saludable</string>
+    <string name="app_pag512">QUEREMOS QUE DISFRUTES TU PROCESO DE CAMBIO así que Pasa al nivel 5 solo si has cumplido el 100% del CUARTO nivel</string>
+
+    ACTIVIDAD 44 NUTRICION NIVEL 5
+    <string name="app_pag521">MEJORAR TU NUTRICIÓN NIVEL 5</string>
+    <string name="app_pag523">En el nivel 5 debes implementar completamente tus hábitos nutricionales saludables todos los días</string>
+    <string name="app_pag522">QUEREMOS QUE DISFRUTES TU PROCESO DE CAMBIO SIGUE CON TU DIETA Y ESPERA NUEVOS NIVELES CON LAS ACTUALIZACIONES</string>
+
+    ACTIVIDAD 44 ACONDICIONAMIENTO FISICO POR NIVELES
+    <string name="app_321">MEJORA TU ACONDICIONAMIENTO FÍSICO POR NIVELES</string>
+
+    ACTIVIDAD 45 FISICO NIVEL 1
+    <string name="app_531">MEJORAR TU ACONDICIONAMIENTO FÍSICO NIVEL 1</string>
+    <string name="app_532">Ejercicios diarios de acondicionamiento físico de 10 minutos</string>
+    <string name="app_533">QUEREMOS QUE DISFRUTES TU ENTRENAMIENTO ASÍ QUE CONTINUA AL SIGUIENTE NIVEL SI TE SIENTES EN LA CAPACIDAD DE SUPERARTE</string>
+
+    ACTIVIDAD 46 FISICO NIVEL 2
+    <string name="app_pag541">MEJORAR TU ACONDICIONAMIENTO FÍSICO NIVEL 2</string>
+    <string name="app_pag542">Ejercicios diarios de acondicionamiento físico de 20 minutos</string>
+
+    ACTIVIDAD 47 FISICO NIVEL 3
+    <string name="app_pag551">MEJORAR TU ACONDICIONAMIENTO FÍSICO NIVEL 3</string>
+    <string name="app_pag552">Ejercicios diarios de acondicionamiento físico de 30 minutos</string>
+
+    ACTIVIDAD 48 FISICO NIVEL 4
+    <string name="app_pag561">MEJORAR TU ACONDICIONAMIENTO FÍSICO NIVEL 4</string>
+    <string name="app_pag562">Ejercicios diarios de acondicionamiento físico de 40 minutos</string>
+
+    ACTIVIDAD 49 FISICO NIVEL 5
+    <string name="app_pag571">MEJORAR TU ACONDICIONAMIENTO FÍSICO NIVEL 5</string>
+    <string name="app_pag572">Ejercicios diarios de acondicionamiento físico de 60 minutos</string>
+
+    ACTIVIDAD 50 HABITOS HIGIENICOS
+    <string name="app_341">HÁBITOS HIGIÉNICOS SALUDABLES</string>
+    <string name="app_343">IMPORTANCIA DE LOS HÁBITOS HIGIÉNICOS</string>
+    <string name="app_342">Los hábitos de higiénicos nos ayudan prevenir enfermedades que pueden alterar nuestro diario vivir</string>
+    <string name="app_344">PRINCIPALES PELIGROS RELACIONADOS CON LA HIGIENE</string>
+    <string name="app_345">1. Individuos portadores de enfermedades o lesiones que pueden contaminar alimentos y transmitir enfermedades a consumidores</string>
+    <string name="app_346">2. Individuos que no mantienen un nivel adecuado de higiene, adquieren y transmiten enfermedades</string>
+    <string name="app_347">3. Alimentos contaminados por insectos, roedores u otros animales</string>
+    <string name="a348">HÁBITOS HIGIÉNICOS SALUDABLES</string>
+    <string name="a349">1. HIGIENE DE LAS MANOS</string>
+    <string name="I340">“Las manos son las principales causantes de la contaminación microbiana y de transmisión de las infecciones ya que realizamos la mayor parte de las actividades diarias con ellas”</string>
+    <string name="I341">Es conveniente lavarse las manos:</string>
+    <string name="I342">Antes y después de manipular alimentos y/o amamantar.</string>
+    <string name="I343">Antes de comer o beber, y después de manipular basura o desperdicios.</string>
+    <string name="I344">Después de tocar alimentos crudos y antes de tocar alimentos cocidos.</string>
+    <string name="I345">Después de ir al baño, sonarse la nariz, toser o estornudar y después de cambiarle los pañales al bebé.</string>
+    <string name="I346">Después de haber tocado objetos sucios como dinero, llaves, pasamanos, etc.</string>
+    <string name="I347">Cuando se llega a casa de la calle, el trabajo, la escuela.</string>
+    <string name="I348">Antes y después de atender a alguien que está enfermo o de curar heridas.</string>
+    <string name="I349">Después de haber estado en contacto con animales.</string>
+    <string name="H340">Nota: Es bueno tener alcohol en gel cuando no dispongamos de agua y jabón.</string>
+    <string name="H341">2. HIGIENE DE LOS PIES</string>
+    <string name="H342">Los pies tienen abundantes glándulas sudoríparas y su transpiración provoca mal olor, grietas e incluso infecciones. Por eso es necesario lavarse los pies diariamente y secarlos completamente, especialmente entre los dedos, para evitar la humedad que puede hacer proliferar ciertos hongos que dan lugar al denominado pie de atleta, cuyo término médico es tiña podal.</string>
+    <string name="H343">Para prevenir el pie de atleta se recomienda:</string>
+    <string name="H344">Usar sandalias o chanclas en los baños y piscinas públicos.</string>
+    <string name="H345">Cambiarse los calcetines lo más frecuentemente posible para mantener los pies secos, al menos una vez al día.</string>
+    <string name="H346">Utilizar talcos antimicóticos para prevenir el pie de atleta si hay predisposición a contraerlo o si se frecuentan áreas donde son comunes los hongos que lo causan (los baños públicos, por ejemplo).</string>
+    <string name="H347">Usar zapatos bien ventilados y preferiblemente hechos de materiales naturales como el cuero. Puede ayudar el hecho de alternar los zapatos cada día, de manera que se puedan secar por completo entre una puesta y otra. Evitar los zapatos con revestimiento de plástico.</string>
+    <string name="H348">3. CORTARSE LAS UÑAS</string>
+    <string name="H349">El buen cuidado de las uñas de manos y pies evitará infecciones. Además, los pies deben mantenerse limpios y secos para evitar los hongos y el mal olor. Las uñas siempre deben cortarse rectas, no en curva, y, para evitar la "uña encarnada" (el borde de la uña se entierra dentro de la piel del dedo) hay que evitar los zapatos muy ajustados o de tacón muy alto.</string>
+    <string name="G340">La limpieza y corte de las uñas de manos y pies, evita la adquisición de gérmenes y bacterias así como de infecciones</string>
+    <string name="G341">4. DUCHARSE A DIARIO</string>
+    <string name="G342">Una buena ducha incluye cuerpo y pelo. Si el cabello se mantiene limpio, no es necesario lavarlo todos los días, pero el cuerpo genera piel muerta constantemente y debe ser eliminada para no provocar enfermedades. Debemos tener especial cuidado en las zonas con pliegues y arrugas y, tras la ducha, secar bien toda la piel para prevenir la piel seca y agrietada. El cabello debe lavarse con mayor o menor regularidad en función del tipo de pelo, pero se recomienda cepillarlo antes del lavado para quitar la capa de suciedad más superficial. Además, es conveniente cepillar el pelo todos los días y lavar el peine o cepillo con jabón con frecuencia. Para prevenir la pediculosis, que con frecuencia padecen los escolares, el peine o cepillo ha de ser de uso individual. Se recomienda que le lavado del pelo sea cada 2 o 3 días</string>
+    <string name="G343">5. LAVARSE LOS DIENTES</string>
+    <string name="G344">La técnica correcta de cepillado consiste en barrer los dientes con el cepillo y no en fregarlos. Es decir, debe moverse el cepillo desde la encía al borde libre del diente, en lugar de hacerlo de izquierda a derecha (así, simplemente se trasladan los microbios de unos dientes a otros).</string>
+    <string name="G345">Los dientes superiores deben cepillarse de arriba a abajo y los inferiores de abajo a arriba. Además, hay que limpiar todas las superficies (caras exterior, interior y superior de los dientes), los espacios interdentales y la lengua.</string>
+    <string name="G346">En la higiene dental diaria no debe faltar el hilo dental, un elemento indispensable para limpiar los espacios interdentales y evitar la formación de caries. Conviene usarlo una vez al día, preferiblemente antes de acostarse. El enjuague bucal o colutorio complementa la acción física del cepillado, pero no debe sustituirla de rutina. El cepillo de dientes debe cambiarse por uno nuevo con regularidad, cada tres meses.</string>
+    <string name="G347">Todo esto disminuirá la acumulación de bacterias en la boca, lo que evitará las molestas caries y otras enfermedades, principalmente afecciones en las encías, que además de afectar a la boca pueden complicarse y llegar incluso al corazón. Por supuesto, el cepillo de dientes no debe compartirse con otras personas, es de uso exclusivamente individual.</string>
+    <string name="G348">6. CUIDADO DE LOS OJOS</string>
+    <string name="F340">Los ojos son órganos muy delicados. Por lo tanto no deben tocarse con las manos sucias ni con pañuelos u otros objetos. Su mecanismo propio de limpieza son las lágrimas. Al estudiar, leer o ver televisión es importante mantener buena iluminación de los espacios evitando así un mayor esfuerzo de la vista. Es importante hacer un control médico para prevenir cegueras y otras enfermedades de la vista.</string>
+    <string name="F341">7. LA HIGIENE DE LA NARIZ</string>
+    <string name="F342">La nariz deja entrar el aire para que llegue a los pulmones con la temperatura y humedad adecuadas, y libre de partículas extrañas. La producción de mocos es un proceso natural que sirve como lubrificante y filtro para el aire. Sin embargo, es necesario retirarlos varias veces al día, pues además de la incomodidad que representan, contienen partículas y microorganismos filtrados que pueden propiciar enfermedades. Es conveniente evitar meterse objetos en la nariz.</string>
+    <string name="F343">8. HIGIENE DE LOS ALIMENTOS</string>
+    <string name="F344">La higiene de los alimentos abarca un amplio campo que incluye la manipulación de los alimentos de origen vegetal, la cría, alimentación, comercialización y sacrificio de los animales así como todos los procesos sanitarios encaminados a prevenir que las bacterias de origen humano lleguen a los alimentos.</string>
+    <string name="F345">La contaminación de alimentos se produce desde diferentes fuentes así: el aire, el agua, el suelo, los seres humanos, los animales y demás seres vivos. No todos los microorganismos que contaminan los alimentos crudos tienen la misma importancia sanitaria, unos se denominan microorganismos alterantes y los demás se denominan microorganismos patógenos.</string>
+    <string name="F346">RECOMENDACIONES PARA EL MANEJO ADECUADO DE LOS ALIMENTOS</string>
+    <string name="F347">Escoger alimentos cuyo tratamiento previo garantice que son seguros (que su manipulación se haya basado en las indicaciones expuestas).</string>
+    <string name="F348">Preparar los alimentos con agua hervida.</string>
+    <string name="F349">Lavar y desinfectar las frutas y verduras.</string>
+    <string name="E340">Antes de abrir un enlatado leer su fecha de vencimiento.</string>
+    <string name="E341">Hervir la leche cruda antes de consumirla.</string>
+    <string name="E342">No guarde alimentos enlatados, estos deben ser consumidos en su totalidad de forma inmediata una vez destapados.</string>
+    <string name="E343">No mezclar alimentos crudos con alimentos cocidos.</string>
+    <string name="E344">Consumir los alimentos inmediatamente después de su preparación y si no se consumen de inmediato, refrigerarlos.</string>
+    <string name="E345">Lavarse las manos con la frecuencia necesaria.</string>
+    <string name="E346">No estornudar o toser sobre los alimentos.</string>
+    <string name="E347">Tener las canecas de basura alejadas de la zona de preparación de alimentos.</string>
+    <string name="E348">Cinco claves para la inocuidad de los alimentos:</string>
+    <string name="E349">1. Mantenga la limpieza</string>
+    <string name="D340">2. Separe alimentos crudos y cocinados</string>
+    <string name="D341">3. Cocine completamente</string>
+    <string name="D342">4. Mantenga alimentos a temperaturas seguras</string>
+    <string name="D343">5. Use agua y materias primas seguras (agua tratada, alimentos sanos y frescos)</string>
+    <string name="D344">9. HIGIENE DE LOS OÍDOS</string>
+    <string name="D345">Es conveniente evitar que el agua entre a los oídos, y su aseo debe hacerse de manera periódica, teniendo en cuenta las recomendaciones de un médico. Es importante tener en cuenta que no se deben introducir objetos en los oídos como: ganchos, pinzas, palillos u otros. El lavado de los oídos debe practicarlo un experto.</string>
+    <string name="D346">10. AFEITADO Y DEPILACIÓN</string>
+    <string name="D347">Antes de afeitarse o depilarse cualquier área del cuerpo es preciso lavarla muy bien con agua y jabón. Tensar levemente la piel en sentido contrario al del rasurado, que debe ser el sentido de crecimiento del pelo. Secar muy bien la piel al finalizar el afeitado. Utilizar los productos adecuados, cambiar las cuchillas con regularidad y mantener una buena higiene de los aparatos para depilar y afeitar.</string>
+    <string name="D348">11. HIGIENE DE LA ROPA Y EL CALZADO</string>
+    <string name="D349">La ropa debe cambiarse regularmente, principalmente la ropa interior y la de cama. La primera debe cambiarse todos los días y la ropa de cama al menos una vez cada semana. Las toallas no deben compartirse con otras personas y deben secarse siempre muy bien.</string>
+    <string name="C340">El calzado debe permitir la transpiración. Es preferible utilizar calzados adecuados al clima y elaborados con materiales de origen natural (cuero, ante...) mejor que fabricados con componentes sintéticos (plásticos). Para mantener la higiene y la duración del calzado conviene limpiar, cepillar y airear los zapatos con regularidad.</string>
+    <string name="C341">12. HIGIENE EN CORTES Y HERIDAS</string>
+    <string name="C342">Los cortes y heridas en la piel son medios ideales para el desarrollo de bacterias. Por este motivo, se deben cubrir con vendajes, gasas, esparadrapo o tiritas, pero éstos a su vez deben protegerse perfectamente con un apósito impermeable (guantes, dediles, etc.), que se mantendrá siempre limpio.</string>
+    <string name="C343">13. HIGIENE DE LOS GENITALES</string>
+    <string name="C344">Aunque el baño diario no hace daño a nadie, hay momentos en los que algunas personas a causa de enfermedades, tratamientos o accidentes no pueden hacerse un baño completo. Sin embargo el aseo de las zonas genitales debe hacerse a diario. Con ello no sólo se evitan los malos olores, sino la adquisición de infecciones y enfermedades.</string>
+    <string name="C345">14. HIGIENE DE LA VIVIENDA</string>
+    <string name="C346">La limpieza de la cocina, quitando la basura y limpiando las hornillas y todos los utensilios (loza, molino o piedra de moler, estantes, alacenas, nevera).</string>
+    <string name="C347">Es necesario barrer y limpiar diariamente la vivienda y sus alrededores, tomando en cuenta que si el suelo es de tierra es necesario humedecerlo, para evitar el amontonamiento de residuos.</string>
+    <string name="C348">En el interior de la vivienda es necesaria la limpieza de techos, paredes, puertas, ventanas y muebles, incluyendo las camas o los chinchorros. Se recomienda mover o cambiar periódicamente de sitio los muebles por lo menos unas dos veces al año.</string>
+    <string name="C349">Es importante el aseo diario del baño, letrina o unidad sanitaria para evitar malos olores y proliferación de gérmenes, hongos y bacterias. Para ello es importante usar jabón y desinfectante.</string>
+    <string name="aB340">La ropa de camas, debe lavarse con cierta periodicidad, dado que allí por falta de aseo se reproducen ácaros que causan problemas en la piel y alergias en las personas.</string>
+    <string name="aB341">De igual forma el lavado de la ropa exterior e interior de las personas es fundamental. En lo posible esta ropa debe ser expuesta al sol, con lo cual se logran erradicar muchos microbios.</string>
+    <string name="aB342">Es importante ventilar diariamente la vivienda. Para ello se deben abrir puertas y ventanas.</string>
+    <string name="aB343">Los alrededores de la vivienda como patios, jardines y solares, deben mantenerse limpios y libres de basuras, para evitar la proliferación de ratas, zancudos, moscos y plagas</string>
+    <string name="aB_344">En sitios de tierra caliente en donde proliferan los insectos es importante colocar angeos en las ventanas y utilizar toldillos en las camas. De esta forma se pueden evitar picaduras de insectos y sus consecuentes enfermedades. </string>
+    <string name="aB345">Los recipientes con agua para consumo humano y para otros usos, deben mantenerse bien tapados.</string>
+    <string name="aB346">El lugar en donde duermen y permanecen los animales debe estar lejos de la vivienda y mantenerse también aseado y libre de estiércol.</string>
+    <string name="aB_347">Es necesario disponer de canecas o recipientes con tapa para el almacenamiento adecuado de las basuras. Estas deben estar alejadas de la cocina, los dormitorios y el comedor.</string>
+    <string name="aB_348">15. HIGIENE DE LOS ANIMALES</string>
+    <string name="aB_349">Recomendaciones para el manejo adecuado de los animales domésticos:</string>
+    <string name="aA341">Vacunar periódicamente a los animales.</string>
+    <string name="aA342">Proporcionar buen trato a las mascotas.</string>
+    <string name="app_348">Destinar un lugar apartado de los habitantes de la vivienda para el alimento y descanso de los animales.</string>
+    <string name="aA343">Si hay animales de distinta especie, cada uno debe contar con su lugar especial.</string>
+    <string name="aA344">Lavar y desinfectar periódicamente los sitios donde permanecen los animales.</string>
+    <string name="aA345">Disponer a diario y de manera adecuada las excretas de los animales. </string>
+    <string name="aA346">Bañar por lo menos una vez al mes al perro. </string>
+    <string name="aA347">Lavarse las manos después de tocar las mascotas.</string>
+    <string name="aA348">Asearse muy bien después de tener contacto con los animales, en especial si se van a preparar los alimentos.</string>
+    <string name="aA349">Consultar al médico veterinario o promotor de salud del municipio, cómo y cuándo se deben vacunar los animales, y qué tipo de alimentación y tratamiento requieren según sea su especie. </string>
+    <string name="aA3491">PRINCIPALES ENFERMEDADES Y SÍNTOMAS GENERADOS POR LA FALTA DE HIGIENE</string>
+    <string name="aA3492">Diarreas, cólera, hepatitis, parasitosis, gastroenteritis, rotavirus, entre otras</string>
+
+    ACTIVIDAD 52 SUEÑO SALUDABLE
+    <string name="app_351">HÁBITOS DE SUEÑO SALUDABLE</string>
+    <string name="app_3596">Los siguientes son consejos que te pueden ayudar a sentirte mas saludable, recuerda que la decisión es tuya y esperamos que sea de gran ayuda</string>
+    <string name="app_352">1. Ir a dormir y despertar a la misma hora</string>
+    <string name="app_353">2. Evitar cafeína, especialmente en la tarde y noche</string>
+    <string name="app_354">3. Evitar la nicotina</string>
+    <string name="app_355">4. Hacer ejercicio con regularidad, pero no demasiado tarde</string>
+    <string name="app_356">5. Evitar las bebidas alcohólicas antes de acostarse</string>
+    <string name="app_357">6. Evitar comidas y bebidas pesadas por la noche</string>
+    <string name="app_358">7. No tomar siestas después de las 3 de la tarde</string>
+    <string name="app_359">8. Relajarse antes de acostarse, por ejemplo, tomando un baño, leyendo o escuchando música suave</string>
+    <string name="app_3591">9. Mantener su dormitorio con una temperatura fresca</string>
+    <string name="app_3592">10. Deshacerse de distracciones como ruidos, luces brillantes y el televisor o computadora en el dormitorio. Además, no se sienta tentado de usar su teléfono o tableta justo antes de acostarse</string>
+    <string name="app_3593">11. Obtener suficiente sol durante el día</string>
+    <string name="app_3594">12. No se acueste en la cama despierto. Si no puede dormir por 20 minutos, levántese y haga algo relajante</string>
+    <string name="app_3595">13. Consulte a un médico si tiene problemas constantes para dormir. Usted puede tener un trastorno del sueño, como insomnio o apnea del sueño. En algunos casos, su médico puede sugerir usar medicamentos para dormir disponibles con o sin receta médica. En otros casos, puede solicitar un estudio del sueño para diagnosticar el problema</string>
+    <string name="app_3597">SI USTED TRABAJA POR TURNOS, PUEDE SER AÚN MÁS DIFÍCIL DORMIR BIEN. ES PROBABLE QUE USTED NECESITE:</string>
+    <string name="app_3598">1. Obtener suficiente sol durante el día</string>
+    <string name="app_3599">2. Mantener las luces prendidas en su trabajo</string>
+    <string name="app_35991">3. Limitar los cambios de turno para permitir que su cuerpo se ajuste</string>
+    <string name="app_35992">4. Consumir cafeína sólo al comienzo de su turno</string>
+    <string name="app_35993">5. Remover las fuentes de sonido y luz durante su descanso diurno (por ejemplo, usar cortinas que bloqueen la luz)</string>
+
+    ACTIVIDAD 36 DISRUTA TU TIEMPO LIBRE
+    <string name="app_texto361">DISFRUTA TU TIEMPO LIBRE</string>
+    <string name="app_texto362">LOS ÚNICOS QUE SABEMOS QUE VAMOS A DISFRUTAR EN NUESTROS TIEMPOS LIBRES, SOMOS NOSOTROS MISMOS</string>
+    <string name="app_texto363">Recomendaciones para que disfrutes tus tiempos libres</string>
+    <string name="app_texto364">1. Planear nuestro tiempo de Ocio.</string>
+    <string name="app_texto365">Este tiempo sólo será útil si pensamos cómo lo podemos utilizar. La única persona que puede convertir nuestro tiempo libre en algo productivo somos nosotros mismos. Pasear, leer un libro, hablar con un viejo amigo… haz una lista con aquellas cosas que te gustaría hacer y procura introducirlas en esas horas libres.</string>
+    <string name="app_texto366">2. Separarlo de factores estresantes innecesarios.</string>
+    <string name="app_texto367">Este tiempo tiene un propósito muy claro: refrescarnos y mejorar nuestra energía, creatividad y sentido de nosotros mismos. Es por eso que debemos alejar aquellas actividades mundanas “útiles”- responder correos electrónicos, avanzar tareas, ver televisión- que no nos ofrecen ninguna ganancia para nuestro tiempo libre y hacen que este se difumine con el tiempo de trabajo.</string>
+    <string name="app_texto368">3. Extender nuestra zona de confort.</string>
+    <string name="app_texto369">Una buena forma de usar nuestro tiempo libre es descubrir nuevas cosas que hagan expandir nuestra zona de confort y nos ayuden a crecer personalmente.</string>
+    <string name="app_text361">4. Modificar el uso de los medios de comunicación.</string>
+    <string name="app_text362">Dejar la televisión fuera de nuestro tiempo libre y pensar formas creativas de utilizar los medios de comunicación hará que nuestro tiempo libre se ocupe con actividades útiles para difundir aquello que queremos compartir con el mundo. Hacer un vídeo para Youtube explicando algo que nos interese, escribir un poema, componer canciones… son solo algunas de las maneras para ocupar tu tiempo libre de forma productiva.</string>
+    <string name="app_text363">5. Hacernos voluntarios</string>
+    <string name="app_text364">Si disponemos de suficiente tiempo libre podemos compartirlo con gente que lo necesita. Esto hará que adquiramos nuevos conocimientos, ampliemos nuestra experiencia y nos sintamos realizados al mismo tiempo que ayudamos a quien realmente lo necesita.</string>
+    <string name="app_text365">6. Aprender por placer.</string>
+    <string name="app_text366">La formación continua que muchos de nosotros seguimos esta muchas veces enfocada a guiarnos para obtener mayores ganancias con el trabajo, pero también existe la opción de aprender por simple placer. Utilizar nuestro tiempo para aprender aquellas cosas que siempre hemos querido aprender pero que siempre hemos ido aplazando por hacer otras tareas es otra forma de invertir nuestro tiempo libre.</string>
+    <string name="app_text367">7. Disfrutar de nuestra afición o pasatiempo.</string>
+    <string name="app_text368"> Involucrarnos en una afición o pasatiempo es útil porque nos da la oportunidad de expandir nuestros conocimientos, mejorar habilidades y estar concentrado y con el cerebro activo además de disfrutar de nosotros mismos.</string>
+    <string name="app_text369">8. Concentrarnos en nuestra espiritualidad. </string>
+    <string name="app_tex361">Nuestro tiempo libre es ideal para todo aquello que sea espiritual porque conseguimos espacio para desarrollarnos, reflexionar y pensar sobre lo realmente importante. Existen muchas formas de aprender y conocer nuestro “yo” espiritual.</string>
+    <string name="app_tex362">9. Desconectar del trabajo.</string>
+    <string name="app_tex363">Cuando disfrutamos del tiempo libre tenemos que olvidarnos del trabajo, para eso es importante que las tareas queden hechas, cerradas o hayamos informado a nuestros compañeros de oficina «qué hacer en caso de…». También es importante aprovechar nuestro tiempo libre con la tranquilidad que no habrá contratiempos y que seguiremos recibiendo correos electrónicos, etc. Para mayor tranquilidad y para tener la certeza que esto será así, existen softwares validados por los usuarios que ayudan a que «disfrutemos del tiempo libre».</string>
+
+    ACTIVIDAD 54 ACCIDENTES
+    <string name="app_texto371">PREVIENE ACCIDENTES DE TRABAJO, DOMÉSTICOS Y DE TRANSITO</string>
+    <string name="app_texto372">¿QUÉ ES UN ACTO INSEGURO?</string>
+    <string name="app_texto373">Acción humana insegura o inapropiada que pone en peligro la salud y la seguridad de las personas, bienes o medio ambiente.  </string>
+    <string name="app_374">Los actos inseguros ocasionan el 96% de los accidentes laborales.</string>
+    <string name="app_texto375">No cometamos actos inseguros, esto nos pueden salvar la vida</string>
+    <string name="app_texto376">ACTOS INSEGUROS MÁS COMUNES</string>
+    <string name="app_texto377">• Adoptar una posición inadecuada para hacer una tarea.</string>
+    <string name="app_texto378">• Realizar acciones en condiciones inseguras o a velocidades excesivas.</string>
+    <string name="app_texto379">• Realizar acciones bajo efectos de alcohol y/o drogas.</string>
+    <string name="app_texto3790">• Utilizar las herramientas o equipos defectuosos o en mal estado.</string>
+    <string name="app_texto3791">• Ejecutar dos actividades al mismo tiempo</string>
+    <string name="app_texto3792">• Utilizar el celular mientras se conduce, camina o se bajan las escaleras</string>
+    <string name="app_texto3793">EL EXCESO DE CONFIANZA ES LA PRINCIPAL CAUSA DE LOS ACCIDENTES</string>
+    <string name="app_texto3794">¿QUÉ ES UNA CONDICIÓN INSEGURA?</string>
+    <string name="app_texto3795">Es toda situación peligrosa que pone en riesgo la vida de las personas, bienes o medio ambiente. </string>
+    <string name="app_texto3796">CONDICIONES INSEGURAS MÁS COMUNES</string>
+    <string name="app_texto3797">• Orden y limpieza deficiente </string>
+    <string name="app_texto3798">• Herramientas, equipos o materiales defectuosos.</string>
+    <string name="app_texto3799">• Iluminación excesiva o insuficiente. </string>
+    <string name="app_texto37990">• Falta de protecciones y resguardos en las máquinas e instalaciones.</string>
+    <string name="app_texto37991">• Falta de señalización. </string>
+    <string name="app_texto37992">• Vía en mal estado. </string>
+
+    ACTIVIDAD 55 EQUILIBRIO MENTAL
+    <string name="app_texto391">EQUILIBRIO MENTAL</string>
+    <string name="app_texto392">¿QUÉ ES EL EQUILIBRIO MENTAL?</string>
+    <string name="app_texto393">El equilibrio mental es un estado de bienestar  en el cual liberamos la mente de pensamientos aflictivos y negativos, logrando que nos sintamos plenos y en paz para poder desarrollar al máximo nuestro potencial</string>
+    <string name="app_texto394">¿QUE LOGRAMOS SI ALCANZAMOS EL EQUILIBRIO MENTAL?</string>
+    <string name="app_texto395">Alcanzar el equilibrio mental no significa que nos desharemos por completo de los pensamientos y emociones negativas ya que, de una forma u otra, siempre estaremos expuestos a la adversidad y los problemas. Desarrollar el equilibrio mental significa no permitir que las situaciones generen tantos pensamientos y emociones negativas que inclinen demasiado la balanza como para hacernos sentir mal</string>
+    <string name="app_texto396">¿CÓMO LOGRAR EL EQUILIBRIO MENTAL?</string>
+    <string name="app_texto397">1. ALCANZAR EL EQUILIBRIO CONATIVO</string>
+    <string name="app_texto398">La conación se refiere a la intención y la voluntad, así como su puesta en práctica. No implica simplemente plantearse un objetivo o desear algo sino comprometerse con su consecución. No se limita al deseo de dejar de fumar sino que significa comprometerse y cambiar de verdad. </string>
+    <string name="app_texto399">El equilibrio conativo es fundamental para el equilibrio mental porque si desarrollamos deseos y aspiraciones irreales o no hacemos nada para alcanzar nuestras metas, terminaremos frustrados y sufriendo un elevado nivel de angustia psicológica.</string>
+    <string name="app_391">Por otra parte, experimentar un déficit conativo; es decir, no desear nada ni comprometernos con ninguna meta suele generar apatía, desmotivación y, en última instancia, un vacío existencial que nos hará profundamente infelices. Estancarnos en la abulia conduce a la desilusión y la desesperación.</string>
+    <string name="app_392">2. ALCANZAR EL EQUILIBRIO ATENCIONAL</string>
+    <string name="app_393">La voluntad sin la capacidad para mantener la atención conduce a un desequilibrio. De hecho, el equilibrio atencional es fundamental para rendir de manera óptima y no caer en la hiperactividad o la hipoactividad.</string>
+    <string name="app_394">La hiperactividad atencional ocurre cuando la mente está excesivamente excitada, lo que genera un estado de agitación y distracción compulsiva. Ese nivel de atención no es funcional y no nos permite cumplir nuestros objetivos, al contrario, conduce a la dispersión. En el extremo opuesto hallamos la hipoactividad atencional, un estado de laxitud que nos mantiene desconcentrados y también nos impide alcanzar nuestras metas ya que la mente divaga sin rumbo.</string>
+    <string name="app_395">Esos desequilibrios se remedian a través de la atención plena, que sería un nivel de atención sostenida y voluntaria enfocada en una actividad u objeto, sin distracciones. Ese tipo de atención no está dirigida únicamente hacia el externo sino que también implica la capacidad para escudriñar dentro de uno mismo y ser capaces de conducir suavemente la atención hacia lo que nos interesa cuando nos distraemos, sin enfadarnos, irritarnos o frustrarnos.</string>
+    <string name="app_396">Esa atención se puede cultivar de diferentes maneras, aunque uno de los métodos más eficaces es la meditación mindfulness.</string>
+    <string name="app_397">3. ALCANZAR EL EQUILIBRIO COGNITIVO</string>
+    <string name="app_398">El equilibrio cognitivo implica comprometerse con el mundo de la experiencia sin realizar suposiciones o albergar ideas preconcebidas sobre los eventos que puedan dar pie a malinterpretaciones o distorsiones de la realidad. Significa estar presentes sin juzgar ni criticar, simplemente viviendo la experiencia.</string>
+    <string name="app_399">El equilibrio cognitivo implica deshacerse de los estereotipos y prejuicios, así como de los sesgos cognitivos, o al menos ser conscientes de su existencia para comprender la diferencia entre la realidad y nuestras expectativas o fantasías, ese mundo que hilamos en nuestra mente y que suele dar pie a malinterpretaciones o reacciones emocionales exageradas fuera de contexto</string>
+    <string name="app391">El budismo nos ofrece un ejemplo claro de desequilibrio cognitivo: confundir una cuerda enrollada con una serpiente. ¿Cómo es posible? Esa confusión se debe a que, en vez de limitarnos a constatar la realidad, no prestamos la suficiente atención y proyectamos nuestros miedos o expectativas, convirtiendo la cuerda en una serpiente.</string>
+    <string name="app392">En la vida cotidiana confundimos continuamente nuestras expectativas, ideas y prejuicios con la realidad, proyectando sobre los hechos nuestros miedos y esperanzas. Eso genera un desequilibrio ya que no respondemos a la realidad tal cual es, sino que reaccionamos ante la historia que hemos construido en nuestra mente. Ese desequilibrio cognitivo puede conducirnos a luchar contra molinos de viento, haciendo que perdamos una energía valiosísima.</string>
+    <string name="app393">Para desarrollar el equilibrio cognitivo debemos poner a prueba continuamente nuestras creencias y pensamientos. Debemos preguntarnos si estamos reaccionando ante lo que nos ocurre o si estamos exagerando los hechos debido a que están influyendo nuestras expectativas o ideas preconcebidas. Se trata de un profundo trabajo de reestructuración cognitiva que implica cambiar las creencias limitantes por otras más adaptativas y flexibles.</string>
+    <string name="app394">ALCANZAR EL EQUILIBRIO EMOCIONAL</string>
+    <string name="app395">El equilibrio emocional es el resultado del balance entre el equilibrio conativo, atencional y cognitivo. Cuando nos planteamos metas realistas y nos comprometemos con su consecución, mantenemos bajo control nuestras expectativas y nos concentramos en lo que realmente importa, el equilibrio emocional es un resultado natural del equilibrio entre deseos, pensamientos y acciones.</string>
+    <string name="app396">Tener un buen equilibrio emocional no implica asumir una actitud indiferente y fría sino ser conscientes de las emociones que estamos experimentando, comprender su influjo y ser capaces de gestionarlas y expresarlas asertivamente.</string>
+    <string name="app397">De hecho, para mantener el equilibrio mental es tan negativa la ira como la euforia extrema ya que ambos estados se convierten en unas gafas que nos impiden ver nítidamente la realidad. El equilibrio emocional es el resultado de una adecuada regulación de los afectos, del autoconocimiento y la madurez psicológica.</string>
+    <string name="app398">Para desarrollarlo es necesario trabajar la Inteligencia Emocional y asumir que las emociones no son enemigos a combatir sino señales a tener en cuenta, tan valiosas como la lógica y la razón.</string>
+    <string name="app399">¿Por qué deberías invertir en tu equilibrio mental? </string>
+    <string name="ap391">Desarrollar un buen equilibrio mental te ayudará a afrontar los problemas. Cuando cuentas con las herramientas psicológicas necesarias y tienes una visión más ponderada, lograrás lidiar con las dificultades sin venirte abajo. Eso significa que la adversidad te hará menos daño y que podrás salir antes de ese estado. Sin duda, es una inversión que vale la pena.</string>
+    <string name="ap392">Fuente: Wallace, B.A.Shapiro, S. L. (2006) Mental balance and well-being: building bridges between Buddhism and Western psychology. Am Psychol; 61(7): 690-701.</string>
+
+    ACTIVIDAD 56 EQUILIBRIO SOCIAL
+    <string name="app_texto401">EQUILIBRIO SOCIAL</string>
+    <string name="app_texto402">lograr el equilibrio entre la vida profesional y personal es un proceso continuo, que requiere de tiempo y esfuerzo para lograrlo. Realizar una revisión cada determinado tiempo de las actividades que se llevan a cabo diariamente permitirá construir la armonía necesaria para equilibrar la vida y mejorar la calidad de esta</string>
+    <string name="app_texto403">11. FORMAS DE LOGRAR EL EQUILIBRIO SOCIAL</string>
+    <string name="app_texto404">1. Organizar aquellas cosas que son prioridad. </string>
+    <string name="app_texto405">Aunque en ocasiones pueden surgir algunos inconvenientes que requieren ser resueltos de inmediato, darle un orden a las cosas importantes de cada día contribuirá a manejar con mayor efectividad el tiempo.</string>
+    <string name="app_texto406">2. Establece metas diarias.</string>
+    <string name="app_texto407"> Es importante ponerte objetivos antes de ir a trabajar al día siguiente. Hacer esto te ayudará a mantenerte enfocado mientras ahorras tiempo y dinero en el camino. Cuando alcances estas metas, te sentirás más feliz, confiado y menos estresado cuando te vayas a tu casa al final del día.</string>
+    <string name="app_texto408">3. Establecer y respetar los horarios con sus actividades. </string>
+    <string name="app_texto409">El horario de trabajo es regularmente de 8 horas y 1 o 2 horas de comida según sea el caso. Cumplir con el tiempo que se debe dedicar a la oficina, no llevarse trabajo a casa, ni incluir actividades laborales en el tiempo destinado a la familia y otras cuestiones personales, ni viceversa.</string>
+    <string name="app_40">4. Programar tiempo para descansar en las actividades diarias.</string>
+    <string name="app_401">Es importante que en la agenda de la semana se incluya espacio y tiempo para realizar actividades que ayuden a recargar energía. Hacer ejercicio, momentos de diversión, meditar, leer, caminar, dormir entre otras, son buenas opciones.</string>
+    <string name="app_402">5. Destinar tiempo para los seres queridos.</string>
+    <string name="app_403"> Si bien es cierto que lo importante no es la cantidad sino la calidad de tiempo, es necesario establecerlo para convivir con la familia, los hijos, la pareja y los amigos, en la mayoría de ocasiones quedan en segundo plano por las actividades laborales.</string>
+    <string name="app_404">6.Replantearse las actividades. </string>
+    <string name="app_405">Con toda seguridad habrá cosas que no son tan relevantes y que están provocando un desgaste de energía, inversión de tiempo y desatención hacía sí mismo. Es necesario quitar todo aquello que resulta distractor y no aprovechable para la vida.</string>
+    <string name="app_406">7. Fijarse metas reales. </string>
+    <string name="app_407">El pensar que se tiene un trabajo y familia hace creer que las metas se han cumplido, pero ambos son apenas unas partes de un abanico de cosas que se requieren para lograr un equilibrio en la vida. Por esto, el fijarse metas que se lleven a la práctica y se logren los mejores resultados, serán causa de satisfacción y equilibrio. El estudio o alguna actividad artística contribuyen al desarrollo de la persona.</string>
+    <string name="app_408">8. Cuidar los días libres.</string>
+    <string name="app_409">Este tiempo es solo para sí mismo, para los seres queridos y aquellas actividades que se desean llevar a cabo de forma personal, por ejemplo para asistir a una terapia de masaje, realizar compras, hacerse un cambio de look, ir al cine, salir de campamento, organizar una reunión en casa o fuera de ella en familia. Si se tiene hijos organizar varias de estas actividades con ellos.</string>
+    <string name="app401">9. Prioriza tus tareas.</string>
+    <string name="app402"> Determina lo que se debe hacer de inmediato y haz esas cosas por orden de importancia. De esa manera no estarás constantemente preocupado de completar esos proyectos y te podrás relajar un poco cuando estén completos.</string>
+    <string name="app403">10. Comunícate. </string>
+    <string name="app404">No pierdas el tiempo asumiendo que ciertas personas harán lo que tú necesitas. Habla con tus compañeros de trabajo y tu familia para que todos estén en la misma página. Esto no sólo te ahorrará tiempo, sino que reducirá el estrés.</string>
+    <string name="app405">11. Delega.</string>
+    <string name="app406">Delega tus responsabilidades laborales y familiares. Si tus hijos son más grandes, diles que te ayuden con algunas tareas de la casa. Si estás trabajando, delega algunas de tus responsabilidades a los otros empleados. Si intentas hacer todo, te enojarás y estarás ansioso. Una persona puede hacer cierta cantidad de cosas, si sientes que estás esforzándote mucho, toma un descanso y evalúa tu situación.</string>
+    <string name="app407">12. Prepárate para las sorpresas inesperadas. </string>
+    <string name="app408">En ciertos eventos pueden pasar y tomar a todos por sorpresa. Sé flexible y, cuando estos eventos inesperados surjan, trata con ellos inmediatamente. Por ejemplo, algunos de los miembros de un proyecto se enferman tres días antes de una presentación importante. En lugar de preocuparte y estresarte reasigna algunas de las tareas a los otros empleados</string>
+    <string name="app409">13. No procrastines.</string>
+    <string name="a40">No dejes las cosas para otro día si las puedes hacer hoy. Como emprendedor, es importante que tú, tus empleados y familia completen las cosas a tiempo. Nunca sabes si algo importante pase y arruine tus planes. Ser eficiente diario puede prevenir futuros problemas a la larga.</string>
+    <string name="a401">14. Reduce los posibles conflictos. </string>
+    <string name="a402">Las cosas no siempre saldrán como tú quieres. Cuando un problema potencial nazca entre tus empleados o familia, trata de encontrar una solución inmediata. No dejes que estos conflictos se alarguen a la siguiente semana. Usa tus habilidades para resolver problemas para prevenir argumentos. Ten la mente abierta y disponte a ver qué piensa la otra persona.</string>
+    <string name="a403">15. Obtén ayuda si la necesitas.</string>
+    <string name="a404">A veces una persona puede necesitar hablar con un consejero o tomar algunas clases que lo ayuden con el manejo del tiempo. Hay grupos locales de negocios que pueden ayudarte a ser más organizado o también puedes pedir consejo de otras personas para que sepas cómo lidiar con las ansiedades laborales y responsabilidades familiares.</string>
+
+
+    ACTIVIDAD 57 HABITOS Y PRODUCTOS TOXICOS
+    <string name="app_texto41">HÁBITOS Y PRODUCTOS TÓXICOS</string>
+    <string name="app_texto4100">10 Malos hábitos que pueden dañar el cerebro según la OMS</string>
+    <string name="app_texto411">¿QUE SON LOS HÁBITOS TÓXICOS?</string>
+    <string name="app_texto412">Los hábitos tóxicos son el consumo frecuente de alguna sustancia dañina para la salud y que resulta a veces difícil de superar</string>
+    <string name="app_texto41000">En la Clasificación Internacional de Enfermedades aparecen 3 términos no totalmente identificables por la población; ellos son: CEFEINISMO, TABAQUISMO y ALCOHOLISMO.</string>
+    <string name="app_texto413">1. CAFEINISMO (exceso de consumo de café)</string>
+    <string name="app_texto414">EFECTOS DEL CAFÉ SOBRE EL SISTEMA NERVIOSO</string>
+    <string name="app_texto415">El café provoca ansiedad, dolores de cabeza, vértigos, temblores, insomnio (sobre todo en las personas con notable dificultad para lograr dormirse y con sueños interrumpidos por pesadillas). En los casos más severos puede haber convulsiones y también ideas delirantes de persecución y daño, así como crisis de pánico agudo (Kaplan H, Sadock B; 1987)</string>
+    <string name="app_texto416">EFECTOS DEL CAFÉ SOBRE EL APARATO CARDIOVASCULAR</string>
+    <string name="app_texto417">El café provoca palpitaciones, extrasístoles (sensación desagradable cuando aparece un latido cardíaco intenso y después viene un tiempo mayor de lo habitual para sentir el siguiente), aumento de la presión arterial, pulso rápido y dolores precordiales de tipo anginoso.</string>
+    <string name="app_texto418">EFECTOS SOBRE EL APARATO DIGESTIVO</string>
+    <string name="app_texto419">El café aumenta notablemente la secreción de ácido clorhídrico del jugo gástrico con la consecuente acidez y regurgitaciones ácidas (regreso del contenido gástrico hacia la faringe con sensación de quemadura), además, provoca diarreas acompañadas de cólicos, empeora notablemente las úlceras gástricas y duodenales, da sensación de tirantez en la "boca del estómago" y aumenta la producción de saliva, así como disminuye el apetito.</string>
+    <string name="app_texto4191">EFECTOS SOBRE EL APARATO GENITOURINARIO</string>
+    <string name="app_texto4192">Por su eliminación en forma directa por la orina, el café determina polaquiuria (necesidad de orinar repetida mente) y micción imperiosa (imposibilidad de contener las ganas de orinar).</string>
+    <string name="app_texto4193">¿CÓMO SE PREVIENE EL HÁBITO DEL CAFÉ?</string>
+    <string name="app_texto4194">Evitar que se establezca la mala costumbre de su consumo, como puede fácilmente apreciarse, esto, en gran parte, tiene que ver con el estilo de vida.</string>
+    <string name="app_texto4195">TABAQUISMO</string>
+    <string name="app_texto4196">EFECTOS DEL TABACO SOBRE LA SALUD</string>
+    <string name="app_texto4197">Estudios científicos muy serios permiten establecer que cada cigarrillo consumido por un fumador habitual, reduce en 9 min su vida , ya que los fumadores como promedio viven 15 años menos que los que logran alcanzar las personas no fumadoras.</string>
+    <string name="app_texto4198">productor de cáncer del pulmón, cáncer de la laringe  (es bueno saber que el 95 % de los que padecen cáncer del pulmón y el 90 % de los que presentan cáncer laríngeo son fumadores de hasta 2 cajetillas diarias),  </string>
+    <string name="app_texto4199">cuando se combina el consumo de tabaco con el exceso de bebidas alcohólicas, las posibilidades de presentar cáncer en la lengua, la faringe, el esófago y el estómago son muchas veces mayores.</string>
+    <string name="app_texto41991">EFECTOS SOBRE EL APARATO CARDIOVASCULAR</string>
+    <string name="app_texto41992">El 25 % de las muertes por enfermedades de las arterias y el corazón están determinadas por el tabaco, lo que merece algunas consideraciones para entender esta relación fatal. Si en lo relativo al cáncer lo fundamental era el alquitrán, el calor y el efecto irritante del humo sobre las mucosas respiratorias, en el caso de las afecciones cardiovasculares el factor de mayor importancia es el efecto de la nicotina que libera sustancias como la cortisona (que eleva la presión arterial, aumenta la frecuencia con que late el corazón y contrae todas las arterias del organismo) y, como si esto fuera poco, la nicotina bloquea el consumo de oxígeno por el músculo cardíaco y aumenta el nivel de grasas en la sangre, grasas que después se acumulan en las paredes de las arterias estrechándolas y endureciéndolas.</string>
+    <string name="app_texto41993">EFECTOS SOBRE EL APARATO RESPIRATORIO</string>
+    <string name="app_texto41994">La acción irritante del humo y la reducción de la llegada de la sangre para alimentar los tejidos, en contacto con el humo, son los principales responsables de la bronquitis crónica del fumador con la tos productiva (que determina eliminación de esputos que contienen pus) y también de las frecuentes faringitis, laringitis, falta de aire y disminución de la elasticidad de los pulmones (enfisema) con la consecuente dificultad para oxigenar adecuadamente la sangre.</string>
+    <string name="app_texto41995">EFECTOS SOBRE EL APARATO DIGESTIVO</string>
+    <string name="app_texto41996">La nicotina es uno de los tóxicos que más estimula la producción de ácido clorhídrico en el jugo gástrico, y por esta vía y por la excitación general del sistema nervioso desencadena y agrava muchos casos de gastritis y úlceras gástricas (del estómago) y duodenales.</string>
+    <string name="app_texto41997">Se daña seriamente y aparecen caries, manchas amarillentas y por último pérdida de piezas.</string>
+    <string name="app_texto41998">EFECTOS SOBRE EL SISTEMA NERVIOSO</string>
+    <string name="app_texto419990">Aunque al inicio del consumo puede tenerse la sensación de aislamiento de preocupaciones y tensiones, el verdadero efecto del tabaco es de tipo excitatorio y por ello determina ansiedad, temblores, trastornos de la concentración, dolores de cabeza de tipo tóxico (como un casquete en la cabeza) y también mareos, zumbido de oídos y trastornos del equilibrio. </string>
+    <string name="app_texto419991">EFECTOS SOBRE EL APARATO GENITOURINARIO</string>
+    <string name="app_texto419992">Aunque el tabaco facilita por disminución de las defensas locales ante las bacterias, las infecciones de riñones y vejiga, es indiscutible que el efecto más importante es el de disminuir la erección, por su efecto tóxico a nivel del cerebro, al que se suma el efecto bloqueador de la médula espinal y la disminución del aporte de sangre a los cuerpos cavernosos del pene, que son como tubos poco elásticos que aumentan su dureza sobre la base de la sangre que les llega durante la estimulación sexual. </string>
+    <string name="app_texto419993">OTROS EFECTOS NEGATIVOS SOBRE LA SALUD</string>
+    <string name="app_texto419994">fumador pasivo, éste no es más que una persona que no fuma, pero que convive con un fumador o está cerca de él en su trabajo o en diferentes actividades donde con frecuencia inhala humo desprendido mientras el otro fuma. Así se vio que las esposas de los fumadores corren mucho más riesgo de presentar cáncer pulmonar que las esposas de personas que no fuman y también que los hijos de padres fumadores tienen 2 veces más frecuencia de enfermedades respiratorias como bronquitis y asma que los niños de padres no fumadores.</string>
+    <string name="app_texto419995">¿CÓMO SE PREVIENE EL HÁBITO DEL TABACO?</string>
+    <string name="app_texto419996">La prevención debía empezar con el ejemplo de los padres, con el control mundial de la propaganda del tabaco (una de las más desarrolladas del mundo) y por el desarrollo de una actitud de rechazo al hábito que debía sustentarse sobre todo, en la existencia del fumador pasivo, quien podría plantear; si decide usted dañar su salud hágalo, pero por favor no fume donde pueda dañar a otros.</string>
+    <string name="app_texto419997">ALCOHOLISMO</string>
+    <string name="app_texto419998">Hoy en día existe un alcohólico por cada 10 personas que han consumido bebidas alcohólicas alguna vez en su vida, En América Latina, esta toxicomanía afecta la población adulta en pro porciones que varían entre el 4 y el 24 %, y se calcula que existen en esta región del mundo unos 25 millones de alcohólicos, además existe el triste vaticinio de que en el año 2000 la cifra llegue a 38 millones (OPS, 1989).</string>
+    <string name="app_texto419999">Está demostrado que el alcoholismo como enfermedad disminuye en 12 años la esperanza promedio de vida de la población (De la Fuente R; 1987).</string>
+    <string name="app_texto4199990">El alcohol etílico (también llamado etanol) cuando se ingiere pasa a la sangre a través de las paredes del estómago y el intestino delgado y circula libremente por todo el organismo, donde por su condición de tóxico dañará a diferentes órganos hasta que resulte neutralizado por oxidación en los tejidos (sobre todo en el hígado). Este mecanismo de desintoxicación, que alcanza a lo sumo para neutralizar un trago fuerte por hora, se encarga del 90 % del alcohol contenido en dicho trago; el 10 % restante se elimina a través de los pulmones (de ahí el aliento etílico), la orina, el sudor y la saliva.</string>
+    <string name="app_texto4199991">EFECTOS DEL ALCOHOL SOBRE LA SALUD. FACTORES QUE EXPLICAN LOS EFECTOS NEGATIVOS SOBRE LA SALUD</string>
+    <string name="app_texto4199992">1. Es absolutamente soluble en agua, por lo que puede circular libremente por todo el organismo.</string>
+    <string name="app_texto4199993">2. Tiene un efecto irritante directo, que es tanto mayor cuanto más concentrada sea la bebida que afecta los tejidos con que contacta</string>
+    <string name="app_texto4199994">3. Demanda la energía para su neutralización en el organismo, que deja de ser utilizada en la oxidación y eliminación de las grasas que, por eso, también se acumulan en las arterias y órganos como el hígado.</string>
+    <string name="app_texto4199995">4. Consume en su neutralización prácticamente todas las vitaminas disponibles en el organismo, sobre todo las relacionadas con el complejo B y, por otra parte, los trastornos digestivos que produce disminuyen el aprovechamiento de las vitaminas que se ingieren en la alimentación normal.</string>
+    <string name="app_texto4199996">5. Tiene una acción reductora del apetito, por lo que conduce a la desnutrición.</string>
+    <string name="app_texto4199997">6. Actúa como disolvente de las sustancias que predisponen al cáncer (carcinógenas), por tanto, determina que éstas circulen por todo el organismo.</string>
+    <string name="app_texto4199999">7. Se transforman en acetaldehído, una sustancia más tóxica que el propio alcohol.</string>
+    <string name="app_texto41999990">8. Existen otras sustancias tóxicas acompañantes, que están presentes en las bebidas que se ofrecen para el consumo y todavía más en el alcohol desnaturalizado, conocido en nuestro medio como alcohol de bodega.</string>
+    <string name="app_texto41999991">La esclavitud ante el tóxico, puede manifestarse, fundamentalmente, por una o más de estas variantes de comportamiento:</string>
+    <string name="app_texto41999992">1. La persona no puede controlar el consumo cuando comienza a beber.</string>
+    <string name="app_texto41999993">2. La persona no puede estar más de 2 días sin beber.</string>
+    <string name="app_texto41999994">3. La persona necesita el alcohol para hacerle frente a las actividades cotidianas (Treskov V; 1987).</string>
+    <string name="app_texto41999995">EFECTOS SOBRE EL SISTEMA NERVIOSO</string>
+    <string name="app_texto41999996">El alcohol provoca pesadillas, insomnio, dolores de cabeza, temblores, convulsiones (sobre todo en personas predispuestas a la epilepsia), depresión con ideas y conducta suicidas (Conde V; 1988) (un alto porcentaje de alcohólicos se suicida) (Marks J; 1988), celos enfermizos, alucinaciones (ver y oír cosas inexistentes), delirios (ideas falsas de daño y persecución), así como cambios importantes en la manera de ser, en la memoria y las capacidades (Gimero C; 1987). En casos avanzados se evidencia degeneración del cerebro, la médula espinal y los nervios periféricos, lo cual determina falta de fuerza muscular, calambres y dolores en las piernas y los brazos, cuadro típico de la polineuritis alcohólica (González R; 1990).</string>
+    <string name="app_texto41999997">EFECTOS SOBRE EL APARATO DIGESTIVO Y GLÁNDULAS ANEXAS</string>
+    <string name="app_texto41999998">El alcohol provoca inflamación de la lengua, del esófago y del estómago, diarreas, úlcera gástrica; úlcera duodenal; várices esofágicas; cáncer gástrico, de la boca y del esófago; lesiones sobre el hígado (provocadas tanto por el efecto tóxico directo del alcohol como por los trastornos de nutrición) (Diez J; 1987), que pueden ser hepatitis, hígado graso y cirrosis hepática (en muchos países, la mitad de todas las cirrosis hepáticas diagnosticadas son determinadas por el alcohol) Shugalie S; 1987); además, lesiones sobre el páncreas, como la pancreatitis aguda hemorrágica (que a veces resulta más grave que la cirrosis hepática) y la pancreatitis crónica.</string>
+    <string name="app_texto41999999">EFECTOS SOBRE EL APARATO CARDIOVASCULAR</string>
+    <string name="app_texto419999990">El alcohol provoca arteriosclerosis temprana, hipertensión arterial ( Pucdey I; 1987) e infarto del miocardio (en los últimos años se ha hecho muy evidente en diferentes países que una de las causas más frecuentes de fallecimiento en los alcohólicos es el infarto). Existe también una enfermedad del corazón llamada "corazón de día de fiesta", que consiste en un trastorno muy grave del ritmo cardíaco lo cual a veces conduce al paro. Además, es frecuente la insuficiencia circulatoria por debilidad del músculo cardíaco.</string>
+    <string name="app_texto419999991">1. Reducción de hormonas masculinas por la acción de alcohol sobre el testículo y la hipófisis.</string>
+    <string name="app_texto419999992">2. Reducción de la entrada de sangre en los cuerpos carvernosos debido a la arteriosclerosis temprana.</string>
+    <string name="app_texto419999993">3. Disminución de la actividad de los centros medulares de la erección por la acción depresiva del alcohol. También en la mujer se producen serias dificultades en la respuesta sexual, aunque lo más peligroso, sin lugar a dudas, es la acción perjudicial sobre el embarazo en las mujeres que abusan del alcohol, expresada en la aparición del feto alcohólico, es decir, importantes deformidades del niño al nacer y graves trastornos de la inteligencia o la conducta en los casos menos severos.</string>
+    <string name="app_texto419999994">OTROS EFECTOS NEGATIVOS SOBRE LA SALUD</string>
+    <string name="app_texto419999995">Culminaremos este capítulo de los efectos perjudiciales del alcohol recordando que por ser disolvente de las sustancias que predisponen al cáncer, facilita la aparición de éste. El consumo excesivo de alcohol hace que el cáncer del esófago sea 19 veces más frecuente que en los que beben normalmente, y cuando se combina el consumo excesivo de tabaco y alcohol, el sujeto tiene 44 veces más frecuencia de cáncer de dicho órgano que los no bebedores ni fumadores.</string>
+    <string name="app_texto419999996">¿COMÓ SE PREVIENE EL ALCOHOLISMO?</string>
+    <string name="app_texto419999997">Lo más importante es desarrollar un estilo de vida donde el alcohol desempeñe una función cada vez menos importante (Rogers R ; 1989) debe quedar bien establecido que una persona para celebrar, divertirse y mostrar amistad, amor u hombría, no necesita el alcohol, ya que estos son atributos espontáneos en cualquier persona normal.</string>
+    <string name="app_texto419999998">Ref. Dr. Ricardo González Menéndez.Hospital Psiquiátrico de La Habana. Carretera de Rancho Boyeros, Ciudad de La Habana, Cuba.</string>
+
+    ACTIVIDAD 58 HABITOS DAÑAR TU CEREBRO
+    <string name="a64">1. No desayunar</string>
+    <string name="a641">El desayuno le proporcionará los nutrientes necesarios para tener energía y comenzar el día activo. Comer los alimentos adecuados hará que su cerebro funcione. De lo contrario, puede degenerar en enfermedades graves como: obesidad, colesterol alto, diabetes e incluso el peligro de sufrir convulsiones.</string>
+    <string name="a642">2. Fumar</string>
+    <string name="a643">El hábito de fumar reduce considerablemente la materia cerebral y el suministro de oxígeno al cerebro. Está demostrado que promueve la aparición de enfermedades neurodegenerativas como el Alzhéimer. Las aminas heterocíclicas que se liberan cuando se fuma interfieren con la replicación correcta del ADN, causando mutaciones que dan lugar a células cancerosas.</string>
+    <string name="a644">3. Exponerse frecuentemente a ambientes contaminados</string>
+    <string name="a645">El cerebro necesita constantemente oxígeno, pero diferentes sustancias tóxicas podrían interferir con el intercambio de gases, transporte y procesamiento de oxígeno hacia las células.</string>
+    <string name="a646">4. No dormir lo suficiente</string>
+    <string name="a647">Una persona necesita ocho horas de sueño por noche para que el cerebro descanse, a fin de que los procesos metabólicos se lleven a cabo correctamente con la energía resultante producida, así como para la renovación celular. Privarse del sueño acelera la muerte de las células cerebrales a corto plazo, y lo mantendrá cansado y de mal humor todo el tiempo.</string>
+    <string name="a648">5. Comer en exceso</string>
+    <string name="a649">Comer alimentos que el cuerpo no necesita provoca una acumulación de sustancias residuales en forma de grasas y endurecimiento de las arterias cerebrales, lo que afecta su correcto funcionamiento.</string>
+    <string name="a6490">6. Consumo de alcohol</string>
+    <string name="a6491">El alcohol puede arruinar sus órganos, principalmente el sistema nervioso, hígado y corazón. Impacta las reacciones químicas que tienen lugar en el cerebro. Asimismo, mata a las neuronas y reduce la velocidad con la que se transmiten los impulsos nerviosos. Está demostrado que su consumo desde adolescente ocasiona fallas irreversibles en el desarrollo del sistema nervioso.</string>
+    <string name="a6492">7. Estrés y violencia</string>
+    <string name="a6493">El estrés provoca varias reacciones al sistema nervioso, algunas de las cuales reducen la capacidad mental y también aumentan el riesgo de sufrir un accidente cerebrovascular y ataques cardíacos. En cuanto a la violencia, un estudio de la Universidad de Londres, reveló que un cerebro de niños maltratados aprende a protegerse y se vuelve hipervigilante, queda en constante alerta, expectante y activo.</string>
+    <string name="a6494">8. No realizar actividad física</string>
+    <string name="a6495">La revista ‘Neurobiology of Aging’ menciona que hacer ejercicio por lo menos tres días a la semana mantiene el cerebro bien estructurado y acelera su funcionamiento. Si no realiza alguna actividad física, el cerebro se va haciendo viejo y corre más riesgos de padecer alguna enfermedad ligada a ese órgano.</string>
+    <string name="a6496">9. Falta de estímulos mentales y ejercicio</string>
+    <string name="a6497">Leer un libro o buscar palabras para estimular tu cerebro aumenta la capacidad de aprendizaje y la memoria, así como el tiempo de reacción a los estímulos. Lo mismo ocurre cuando se practica alguna actividad física.</string>
+    <string name="a6498">10. No tener una dieta saludable</string>
+    <string name="a6499">Al no tener una dieta saludable y balanceada el cerebro se ve afectado, terminando en graves enfermedades.</string>
+
+    ACTIVIDAD 59
+    <string name="a59">DISFRUTA TU CAMBIO, ASÍ QUE EMPIEZA POR PASOS</string>
+
+    ACTIVIDAD 60
+    <string name="a60">IMPLEMENTA LOS CAMBIOS QUE MÁS SE TE FACILITEN</string>
+
+    ACTIVIDAD 61
+    <string name="as61">MIRA LOS BENEFICIOS DE TOMAR AGUA</string>
+
+    ACTIVIDAD 62
+    <string name="as62">EMPIEZA IMPLEMENTANDO LOS CONSEJOS QUE MÁS SE TE FACILITEN</string>
+
+    ACTIVIDAD 63
+    <string name="as63">SNACKS INTELIGENTES: BAJOS DE CALORÍAS Y ALTOS EN NUTRIENTES</string>
+
+    ACTIVIDAD 64
+    <string name="as64">CONOCE MÁS ACERCA DE LOS MACRONUTRIENTES</string>
+
+
+</resources>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.Main35Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView349"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_311"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_311" />
+
+            <TextView
+                android:id="@+id/textView827"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_317"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_317" />
+
+            <Button
+                android:id="@+id/porpartes"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="62dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:onClick="partes"
+                android:text="@string/app_318"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/app_318" />
+
+            <Button
+                android:id="@+id/posturas4"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:onClick="cambios"
+                android:text="@string/app_319"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/app_319" />
+
+            <Button
+                android:id="@+id/posturas5"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:onClick="agua"
+                android:text="@string/app_320"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/app_320" />
+
+            <Button
+                android:id="@+id/posturas6"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:onClick="conejos"
+                android:text="@string/app_3210"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/app_3210" />
+
+            <Button
+                android:id="@+id/posturas2"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:onClick="snaks"
+                android:text="@string/app_322"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/app_322" />
+
+            <Button
+                android:id="@+id/posturas7"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:onClick="macro"
+                android:text="@string/app_323"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/app_323" />
+
+            <ImageView
+                android:id="@+id/imageView15"
+                android:layout_width="match_parent"
+                android:layout_height="255dp"
+                app:srcCompat="@drawable/nutri" />
+
+            <Button
+                android:id="@+id/button31"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:onClick="amateur"
+                android:text="@string/app_312"
+                android:textSize="16sp"
+                tools:text="@string/app_312" />
+
+            <Button
+                android:id="@+id/button32"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:onClick="principiante"
+                android:text="@string/app_313"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_313" />
+
+            <Button
+                android:id="@+id/ejerciciomental"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:onClick="normal"
+                android:text="@string/app_314"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_314" />
+
+            <Button
+                android:id="@+id/habitoshigienicos"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:onClick="profesional"
+                android:text="@string/app_315"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_315" />
+
+            <Button
+                android:id="@+id/sueño"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:onClick="leyenda"
+                android:text="@string/app_316"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_316" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

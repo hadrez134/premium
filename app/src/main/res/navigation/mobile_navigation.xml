@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="apps.bienestar.pausasactivasybienestar.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_nav_home_to_sindromeFragment2"
+            app:destination="@id/sindromeFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="apps.bienestar.pausasactivasybienestar.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="apps.bienestar.pausasactivasybienestar.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <activity
+        android:id="@+id/registroActivity"
+        android:name="apps.bienestar.pausasactivasybienestar.registroActivity"
+        android:label="activity_registro"
+        tools:layout="@layout/activity_registro" />
+    <activity
+        android:id="@+id/main2Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main2Activity"
+        android:label="Main2Activity" />
+    <fragment
+        android:id="@+id/sindromeFragment"
+        android:name="apps.bienestar.pausasactivasybienestar.SindromeFragment"
+        android:label="Haz tu estudio de iluminación"
+        tools:layout="@layout/fragment_sindrome" />
+    <activity
+        android:id="@+id/main17Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main17Activity"
+        android:label="Sitonmas del sindrome del tunel de carpo"
+        tools:layout="@layout/activity_main17" />
+    <fragment
+        android:id="@+id/posturasFragment"
+        android:name="apps.bienestar.pausasactivasybienestar.PosturasFragment"
+        android:label="Posturas correctas"
+        tools:layout="@layout/fragment_posturas" />
+    <activity
+        android:id="@+id/main21Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main21Activity"
+        android:label="activity_main21"
+        tools:layout="@layout/activity_main21" />
+    <activity
+        android:id="@+id/main22Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main22Activity"
+        android:label="activity_main22"
+        tools:layout="@layout/activity_main22" />
+    <activity
+        android:id="@+id/main23Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main23Activity"
+        android:label="activity_main23"
+        tools:layout="@layout/activity_main23" />
+    <fragment
+        android:id="@+id/descansosFragment"
+        android:name="apps.bienestar.pausasactivasybienestar.descansosFragment"
+        android:label="Descansos personalizados"
+        tools:layout="@layout/fragment_descansos" />
+    <activity
+        android:id="@+id/main24Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main24Activity"
+        android:label="activity_main24"
+        tools:layout="@layout/activity_main24" />
+    <include app:graph="@navigation/nav_graph" />
+    <activity
+        android:id="@+id/main28Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main28Activity"
+        android:label="activity_main28"
+        tools:layout="@layout/activity_main28" />
+    <activity
+        android:id="@+id/main29Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main29Activity"
+        android:label="activity_main29"
+        tools:layout="@layout/activity_main29" />
+    <activity
+        android:id="@+id/main30Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main30Activity"
+        android:label="activity_main30"
+        tools:layout="@layout/activity_main30" />
+    <activity
+        android:id="@+id/main31Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main31Activity"
+        android:label="activity_main31"
+        tools:layout="@layout/activity_main31" />
+    <activity
+        android:id="@+id/main32Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main32Activity"
+        android:label="activity_main32"
+        tools:layout="@layout/activity_main32" />
+    <activity
+        android:id="@+id/main33Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main33Activity"
+        android:label="activity_main33"
+        tools:layout="@layout/activity_main33" />
+    <fragment
+        android:id="@+id/habitosFragment"
+        android:name="apps.bienestar.pausasactivasybienestar.habitosFragment"
+        android:label="Habitos y estilos de vida saludables"
+        tools:layout="@layout/fragment_habitos" />
+    <activity
+        android:id="@+id/main35Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main35Activity"
+        android:label="activity_main35"
+        tools:layout="@layout/activity_main35" />
+    <activity
+        android:id="@+id/main45Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main45Activity"
+        android:label="activity_main45"
+        tools:layout="@layout/activity_main45" />
+    <activity
+        android:id="@+id/main25Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main25Activity"
+        android:label="activity_main25"
+        tools:layout="@layout/activity_main25" />
+    <activity
+        android:id="@+id/main51Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main51Activity"
+        android:label="activity_main51"
+        tools:layout="@layout/activity_main51" />
+    <activity
+        android:id="@+id/main52Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main52Activity"
+        android:label="activity_main52"
+        tools:layout="@layout/activity_main52" />
+    <activity
+        android:id="@+id/main53Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main53Activity"
+        android:label="activity_main53"
+        tools:layout="@layout/activity_main53" />
+    <activity
+        android:id="@+id/main54Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main54Activity"
+        android:label="activity_main54"
+        tools:layout="@layout/activity_main54" />
+    <activity
+        android:id="@+id/main55Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main55Activity"
+        android:label="activity_main55"
+        tools:layout="@layout/activity_main55" />
+    <activity
+        android:id="@+id/main27Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main27Activity"
+        android:label="activity_main27"
+        tools:layout="@layout/activity_main27" />
+    <activity
+        android:id="@+id/main56Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main56Activity"
+        android:label="activity_main56"
+        tools:layout="@layout/activity_main56" />
+    <activity
+        android:id="@+id/main57Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main57Activity"
+        android:label="activity_main57"
+        tools:layout="@layout/activity_main57" />
+    <activity
+        android:id="@+id/main3Activity2"
+        android:name="apps.bienestar.pausasactivasybienestar.Main3Activity"
+        android:label="activity_main3"
+        tools:layout="@layout/activity_main3" />
+    <activity
+        android:id="@+id/main4Activity2"
+        android:name="apps.bienestar.pausasactivasybienestar.Main4Activity"
+        android:label="activity_main4"
+        tools:layout="@layout/activity_main4" />
+    <activity
+        android:id="@+id/main5Activity2"
+        android:name="apps.bienestar.pausasactivasybienestar.Main5Activity"
+        android:label="activity_main5"
+        tools:layout="@layout/activity_main5" />
+    <activity
+        android:id="@+id/main34Activity"
+        android:name="apps.bienestar.pausasactivasybienestar.Main34Activity"
+        android:label="activity_main34"
+        tools:layout="@layout/activity_main34" />
+</navigation>

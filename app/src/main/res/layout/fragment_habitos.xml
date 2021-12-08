@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.habitosFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView349"
+                android:layout_width="match_parent"
+                android:layout_height="63dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_habitos"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_habitos" />
+
+            <ImageView
+                android:id="@+id/imageView15"
+                android:layout_width="match_parent"
+                android:layout_height="133dp"
+                app:srcCompat="@drawable/apple" />
+
+            <Button
+                android:id="@+id/button31"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto71"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_texto71" />
+
+            <ImageView
+                android:id="@+id/imageView16"
+                android:layout_width="match_parent"
+                android:layout_height="189dp"
+                app:srcCompat="@drawable/ejer" />
+
+            <Button
+                android:id="@+id/button32"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto72"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_texto72" />
+
+            <LinearLayout
+                android:id="@+id/layout_admob"
+                android:layout_width="match_parent"
+                android:layout_height="66dp"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/imageView17"
+                android:layout_width="match_parent"
+                android:layout_height="232dp"
+                app:srcCompat="@drawable/nente" />
+
+            <Button
+                android:id="@+id/ejerciciomental"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto73"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_texto73" />
+
+            <ImageView
+                android:id="@+id/imageView18"
+                android:layout_width="match_parent"
+                android:layout_height="322dp"
+                app:srcCompat="@drawable/la" />
+
+            <Button
+                android:id="@+id/habitoshigienicos"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto74"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_texto74" />
+
+            <ImageView
+                android:id="@+id/imageView19"
+                android:layout_width="match_parent"
+                android:layout_height="272dp"
+                app:srcCompat="@drawable/suen" />
+
+            <Button
+                android:id="@+id/sueño"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto75"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_texto75" />
+
+            <ImageView
+                android:id="@+id/imageView20"
+                android:layout_width="match_parent"
+                android:layout_height="271dp"
+                app:srcCompat="@drawable/tien" />
+
+            <Button
+                android:id="@+id/tiempolibre"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto76"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_texto76" />
+
+            <ImageView
+                android:id="@+id/imageView21"
+                android:layout_width="match_parent"
+                android:layout_height="206dp"
+                app:srcCompat="@drawable/aaaa" />
+
+            <Button
+                android:id="@+id/accidentes"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto77"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_texto77" />
+
+            <ImageView
+                android:id="@+id/imageView22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/estres" />
+
+            <Button
+                android:id="@+id/estresssss"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_78"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_78" />
+
+            <ImageView
+                android:id="@+id/imageView23"
+                android:layout_width="match_parent"
+                android:layout_height="181dp"
+                app:srcCompat="@drawable/equilibriomenta" />
+
+            <Button
+                android:id="@+id/mentallll"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto79"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_texto79" />
+
+            <ImageView
+                android:id="@+id/imageView24"
+                android:layout_width="match_parent"
+                android:layout_height="136dp"
+                app:srcCompat="@drawable/akti" />
+
+            <Button
+                android:id="@+id/sociall"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto790"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_texto790" />
+
+            <ImageView
+                android:id="@+id/imageView25"
+                android:layout_width="match_parent"
+                android:layout_height="234dp"
+                app:srcCompat="@drawable/alcoholdrogas" />
+
+            <Button
+                android:id="@+id/toxicossss"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_texto791"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_texto791" />
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

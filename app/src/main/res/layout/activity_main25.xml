@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.Main25Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView225"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_P61"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_P61" />
+
+            <TextView
+                android:id="@+id/textView226"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/appP62"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                tools:text="@string/appP62" />
+
+            <view
+                android:id="@+id/juegos"
+                class="com.google.android.youtube.player.YouTubePlayerView"
+                android:layout_width="match_parent"
+                android:layout_height="231dp" />
+
+            <Button
+                android:id="@+id/pausasss"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/generales"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="italic"
+                android:typeface="serif"
+                tools:text="@string/generales" />
+
+            <TextView
+                android:id="@+id/textView227"
+                android:layout_width="match_parent"
+                android:layout_height="29dp" />
+
+            <TextView
+                android:id="@+id/textView228"
+                android:layout_width="match_parent"
+                android:layout_height="37dp"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/andada"
+                android:text="@string/appP63"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/appP63" />
+
+            <Button
+                android:id="@+id/button19"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:onClick="face"
+                android:text="@string/app64"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app64" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

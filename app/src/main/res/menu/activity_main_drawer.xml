@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+    <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/korason"
+            android:title="Mejora tu salud en 6 pasos" />
+    <item
+        android:id="@+id/posturasFragment"
+        android:icon="@drawable/numerouno"
+        android:title="Mejora tus posturas" />
+
+    <item
+        android:id="@+id/nav_gallery"
+        android:icon="@drawable/numerodos"
+        android:title="Realiza pausas activas" />
+
+    <item
+        android:id="@+id/nav_slideshow"
+        android:icon="@drawable/numerotres"
+        android:title="Cuidar tu visión"/>
+
+    <item
+    android:id="@+id/sindromeFragment"
+    android:icon="@drawable/numerocuatro"
+    android:title="haz un estudio de iluminación"/>
+
+    <item
+        android:id="@+id/descansosFragment"
+        android:icon="@drawable/numerocinco"
+        android:title="Toma tus descansos"/>
+    <item
+        android:id="@+id/habitosFragment"
+        android:icon="@drawable/numeroseis"
+        android:title="Habitos saludables"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:title="Pausas activas">
+            <menu>
+
+                <item  android:id="@+id/main2Activity"
+                    android:title="Pausas activas para Cuello y hombros" />
+
+                <item  android:id="@+id/main3Activity2"
+                    android:title="Pausas activas para Brazos" />
+
+                <item  android:id="@+id/main34Activity"
+                    android:title="Pausas activas para Manos" />
+
+                <item  android:id="@+id/main4Activity2"
+                    android:title="Pausas activas para Espalda" />
+
+                <item  android:id="@+id/main5Activity2"
+                    android:title="Pausas activas para Piernas" />
+
+            </menu>
+
+        </item>
+    </group>
+</menu>

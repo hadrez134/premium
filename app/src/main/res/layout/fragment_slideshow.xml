@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.ui.slideshow.SlideshowFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView180"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_visión3"
+                android:textAlignment="center"
+                android:textColor="#0C080A"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_visión3" />
+
+            <TextView
+                android:id="@+id/sensasione4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pasodistancia13"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_pasodistancia13" />
+
+            <TextView
+                android:id="@+id/textView192"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pasodistancia53"
+                android:textAlignment="textStart"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_pasodistancia53" />
+
+            <ImageView
+                android:id="@+id/imageView76"
+                android:layout_width="383dp"
+                android:layout_height="261dp"
+                android:src="@drawable/distanciaaaaaa" />
+
+            <LinearLayout
+                android:id="@+id/layout_admob"
+                android:layout_width="match_parent"
+                android:layout_height="66dp"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView193"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pasodistancia23"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_pasodistancia23" />
+
+            <TextView
+                android:id="@+id/textView194"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pasodistancia33"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_pasodistancia33" />
+
+            <TextView
+                android:id="@+id/textView195"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pasodistancia73"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_pasodistancia73" />
+
+            <ImageView
+                android:id="@+id/imageView60"
+                android:layout_width="match_parent"
+                android:layout_height="333dp"
+                android:src="@drawable/angulo" />
+
+            <ImageView
+                android:id="@+id/imageView79"
+                android:layout_width="match_parent"
+                android:layout_height="265dp"
+                android:src="@drawable/gradosdevision" />
+
+            <TextView
+                android:id="@+id/textView196"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pasodistancia43"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_pasodistancia43" />
+
+            <TextView
+                android:id="@+id/textView197"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pasodistancia83"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_pasodistancia83" />
+
+            <ImageView
+                android:id="@+id/imageView83"
+                android:layout_width="match_parent"
+                android:layout_height="299dp"
+                android:src="@drawable/angulovisionnnnn" />
+
+            <ImageView
+                android:id="@+id/imageView84"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/arribaaa" />
+
+            <TextView
+                android:id="@+id/textView198"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pasoiluminación3"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_pasoiluminación3" />
+
+            <TextView
+                android:id="@+id/textView199"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pasodistancia93"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_pasodistancia93" />
+
+            <TextView
+                android:id="@+id/textView200"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_vision32"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_vision32" />
+
+            <TextView
+                android:id="@+id/textView201"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_33"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_33" />
+
+            <TextView
+                android:id="@+id/textView202"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_34"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic" />
+
+            <Button
+                android:id="@+id/button7"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_botoniluminacion2"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_botoniluminacion2" />
+
+            <Button
+                android:id="@+id/button8"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pasopausas3"
+                android:textSize="16sp"
+                android:textStyle="italic" />
+
+            <Button
+                android:id="@+id/button9"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pasojos"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_pasojos" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

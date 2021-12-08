@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.Main22Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView203"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:text="@string/app_131"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_131" />
+
+            <view
+                android:id="@+id/view2"
+                class="com.google.android.youtube.player.YouTubePlayerView"
+                android:layout_width="match_parent"
+                android:layout_height="550dp" />
+
+            <Button
+                android:id="@+id/button10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/generales"
+                tools:text="@string/generales" />
+
+            <TextView
+                android:id="@+id/textView204"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/app_132"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_132" />
+
+            <TextView
+                android:id="@+id/textView205"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/app_133"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_133" />
+
+            <TextView
+                android:id="@+id/textView206"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/app_134"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_134" />
+
+            <TextView
+                android:id="@+id/textView207"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/app_135"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_135" />
+
+            <TextView
+                android:id="@+id/textView208"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/app_136"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_136" />
+
+            <TextView
+                android:id="@+id/textView209"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/app_137"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:typeface="serif"
+                tools:text="@string/app_137" />
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

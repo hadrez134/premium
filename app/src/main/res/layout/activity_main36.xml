@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.Main36Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView350"
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pag331"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:text="@string/app_pag331" />
+
+            <TextView
+                android:id="@+id/textView351"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pag3395"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_pag3395" />
+
+            <TextView
+                android:id="@+id/textView352"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pag333"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_pag333" />
+
+            <Button
+                android:id="@+id/tiempolibre"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:onClick="desayunos"
+                android:text="@string/app_pag60"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_pag60" />
+
+            <Button
+                android:id="@+id/accidentes"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:onClick="almuerzo"
+                android:text="@string/a61"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/a61" />
+
+            <Button
+                android:id="@+id/estresssss"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:onClick="onces"
+                android:text="@string/a62"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/a62" />
+
+            <Button
+                android:id="@+id/mentallll"
+                style="@android:style/Widget.Holo.Light.Button.Toggle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:onClick="cena"
+                android:text="@string/a63"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/a63" />
+
+            <TextView
+                android:id="@+id/textView353"
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pag3394"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_pag3394" />
+
+            <TextView
+                android:id="@+id/textView354"
+                android:layout_width="match_parent"
+                android:layout_height="61dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pag3392"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_pag3392" />
+
+            <TextView
+                android:id="@+id/textView355"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="@string/app_pag3393"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="normal"
+                tools:text="@string/app_pag3393" />
+
+            <TextView
+                android:id="@+id/textView356"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_pag3391"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_pag3391" />
+
+            <Button
+                android:id="@+id/sociall"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:onClick="principiante"
+                android:text="@string/app_313"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_313" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

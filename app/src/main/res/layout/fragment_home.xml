@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.ui.home.HomeFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/andada"
+                android:lineSpacingExtra="0sp"
+                android:text="@string/app_bienvenida"
+                android:textAlignment="center"
+                android:textColor="#0C9E02"
+                android:textColorHighlight="#FFFFFF"
+                android:textColorHint="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="normal"
+                tools:text="@string/app_bienvenida" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:fontFamily="@font/andada"
+                android:gravity="center_horizontal"
+                android:lineSpacingExtra="0sp"
+                android:text="@string/app_3"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textColorHighlight="#FFFFFF"
+                android:textColorHint="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="normal"
+                tools:text="@string/app_3" />
+
+            <Button
+                android:id="@+id/posturas"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:text="@string/A1"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/A1" />
+
+            <Button
+                android:id="@+id/pausasactivas"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:text="@string/A2"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/A2" />
+
+            <Button
+                android:id="@+id/ojos"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:text="@string/A3"
+                android:textColor="#000000"
+                android:textSize="17sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/A3" />
+
+            <Button
+                android:id="@+id/iluminacion"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:text="@string/A4"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/A4" />
+
+            <Button
+                android:id="@+id/descansos"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:text="@string/A5"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/A5" />
+
+            <Button
+                android:id="@+id/habitosaludables"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:text="@string/A6"
+                android:textColor="#020202"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/A6" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="43dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="35dp"
+                android:fontFamily="@font/andada"
+                android:lineSpacingExtra="0sp"
+                android:text="@string/app_haz"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/registrarse"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_2"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic"
+                tools:text="@string/app_2" />
+
+            <Button
+                android:id="@+id/tunel"
+                style="@android:style/Widget.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/botones2"
+                android:fontFamily="@font/andada"
+                android:text="@string/A7"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:textStyle="bold|italic"
+                tools:text="@string/A7" />
+
+            <LinearLayout
+                android:id="@+id/layout_admob"
+                android:layout_width="match_parent"
+                android:layout_height="66dp"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

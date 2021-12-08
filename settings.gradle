@@ -1,0 +1,2 @@
+rootProject.name='Pausas Activas y Bienestar'
+include ':app'

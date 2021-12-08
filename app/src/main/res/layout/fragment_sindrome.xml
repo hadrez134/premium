@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.SindromeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView140"
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_botoniluminacion2"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_botoniluminacion2" />
+
+            <TextView
+                android:id="@+id/sensasione2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu15"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:typeface="serif"
+                tools:text="@string/app_ilu15" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                app:srcCompat="@drawable/playstore" />
+
+            <TextView
+                android:id="@+id/textView141"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu25"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:typeface="serif"
+                tools:text="@string/app_ilu25" />
+
+            <LinearLayout
+                android:id="@+id/layout_admob"
+                android:layout_width="match_parent"
+                android:layout_height="66dp"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="match_parent"
+                android:layout_height="710dp"
+                app:srcCompat="@drawable/uuj" />
+
+            <TextView
+                android:id="@+id/textView142"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu35"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:typeface="serif"
+                tools:text="@string/app_ilu35" />
+
+            <TextView
+                android:id="@+id/textView143"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu45"
+                android:textColor="#404040"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_ilu45" />
+
+            <ImageView
+                android:id="@+id/imageView59"
+                android:layout_width="match_parent"
+                android:layout_height="458dp"
+                android:src="@drawable/lux" />
+
+            <ImageView
+                android:id="@+id/imageView85"
+                android:layout_width="match_parent"
+                android:layout_height="354dp"
+                android:src="@drawable/luxx" />
+
+            <ImageView
+                android:id="@+id/imageView86"
+                android:layout_width="match_parent"
+                android:layout_height="427dp"
+                android:src="@drawable/luxxxxx" />
+
+            <TextView
+                android:id="@+id/textView783"
+                android:layout_width="match_parent"
+                android:layout_height="104dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu116"
+                android:textColor="#404040"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_ilu116" />
+
+            <TextView
+                android:id="@+id/textView785"
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu117"
+                android:textColor="#404040"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_ilu117" />
+
+            <TextView
+                android:id="@+id/textView144"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu55"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:typeface="serif"
+                tools:text="@string/app_ilu55" />
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="match_parent"
+                android:layout_height="213dp"
+                app:srcCompat="@drawable/niveles_de_iluminacion" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="match_parent"
+                android:layout_height="183dp"
+                app:srcCompat="@drawable/tabla_reti" />
+
+            <TextView
+                android:id="@+id/textView145"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu65"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:typeface="serif"
+                tools:text="@string/app_ilu65" />
+
+            <TextView
+                android:id="@+id/textView146"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu75"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:typeface="serif"
+                tools:text="@string/app_ilu75" />
+
+            <TextView
+                android:id="@+id/textView147"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu85"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_ilu85" />
+
+            <TextView
+                android:id="@+id/textView148"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu95"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_ilu95" />
+
+            <TextView
+                android:id="@+id/textView149"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu105"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_ilu105" />
+
+            <TextView
+                android:id="@+id/textView150"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_ilu115"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:text="@string/app_ilu115" />
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

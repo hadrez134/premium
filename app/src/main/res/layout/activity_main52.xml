@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.Main52Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView550"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_351"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_351" />
+
+            <TextView
+                android:id="@+id/textView551"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_3596"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_3596" />
+
+            <TextView
+                android:id="@+id/textView552"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_352"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_352" />
+
+            <TextView
+                android:id="@+id/textView553"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_353"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_353" />
+
+            <TextView
+                android:id="@+id/textView554"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_354"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_354" />
+
+            <TextView
+                android:id="@+id/textView555"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_355"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_355" />
+
+            <TextView
+                android:id="@+id/textView556"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_356"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_356" />
+
+            <TextView
+                android:id="@+id/textView557"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_357"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_357" />
+
+            <TextView
+                android:id="@+id/textView558"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_358"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_358" />
+
+            <TextView
+                android:id="@+id/textView559"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_359"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_359" />
+
+            <TextView
+                android:id="@+id/textView560"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_3591"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_3591" />
+
+            <TextView
+                android:id="@+id/textView561"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_3592"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_3592" />
+
+            <TextView
+                android:id="@+id/textView562"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_3593"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_3593" />
+
+            <TextView
+                android:id="@+id/textView563"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_3594"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_3594" />
+
+            <TextView
+                android:id="@+id/textView564"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_3595"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_3595" />
+
+            <TextView
+                android:id="@+id/textView565"
+                android:layout_width="match_parent"
+                android:layout_height="95dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_3596"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_3596" />
+
+            <TextView
+                android:id="@+id/textView566"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_3597"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_3597" />
+
+            <TextView
+                android:id="@+id/textView567"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_3598"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_3598" />
+
+            <TextView
+                android:id="@+id/textView568"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_3599"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_3599" />
+
+            <TextView
+                android:id="@+id/textView569"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_35991"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_35991" />
+
+            <TextView
+                android:id="@+id/textView570"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_35992"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_35992" />
+
+            <TextView
+                android:id="@+id/textView571"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_35993"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:text="@string/app_35993" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

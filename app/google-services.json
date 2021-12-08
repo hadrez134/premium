@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "50047428211",
+    "firebase_url": "https://pausas-activas-y-bienest-43751.firebaseio.com",
+    "project_id": "pausas-activas-y-bienest-43751",
+    "storage_bucket": "pausas-activas-y-bienest-43751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50047428211:android:87a3a6ce6494295ba56c06",
+        "android_client_info": {
+          "package_name": "apps.bienestar.pausasactivasybienestar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50047428211-c2vhbq354aapoklc34g8mu2vtd8ge6qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.bienestar.pausasactivasybienestar",
+            "certificate_hash": "f1b7264cd8b140943f57bdaa125bedc6a9e08737"
+          }
+        },
+        {
+          "client_id": "50047428211-b61o2hogbn9h0chbjp1ch8da42hms0vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.bienestar.pausasactivasybienestar",
+            "certificate_hash": "d95b29a8be3f74bd84542e217cb561818f569746"
+          }
+        },
+        {
+          "client_id": "50047428211-8ah0nud1al7aobbi0b5eca6dnid4fikn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY41D5Lt6VK7FMgOSIeggeDUI67uItZcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50047428211-8ah0nud1al7aobbi0b5eca6dnid4fikn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50047428211:android:c2771a3bcc4be133a56c06",
+        "android_client_info": {
+          "package_name": "com.example.pausasactivasybienestar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50047428211-05p33obrq3gmefotf6kctb4594lfh0d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pausasactivasybienestar",
+            "certificate_hash": "d95b29a8be3f74bd84542e217cb561818f569746"
+          }
+        },
+        {
+          "client_id": "50047428211-8ah0nud1al7aobbi0b5eca6dnid4fikn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY41D5Lt6VK7FMgOSIeggeDUI67uItZcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50047428211-8ah0nud1al7aobbi0b5eca6dnid4fikn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

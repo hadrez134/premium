@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="apps.bienestar.pausasactivasybienestar.Main12Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView104"
+                android:layout_width="match_parent"
+                android:layout_height="71dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_261"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:text="@string/app_261" />
+
+            <view
+                android:id="@+id/dina6h"
+                class="com.google.android.youtube.player.YouTubePlayerView"
+                android:layout_width="match_parent"
+                android:layout_height="550dp" />
+
+            <Button
+                android:id="@+id/buttondina6h"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:fontFamily="@font/andada"
+                android:text="@string/generales"
+                tools:text="@string/generales" />
+
+            <TextView
+                android:id="@+id/textView105"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_262"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                tools:text="@string/app_262" />
+
+            <TextView
+                android:id="@+id/textView106"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_263"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:typeface="serif"
+                tools:text="@string/app_263" />
+
+            <TextView
+                android:id="@+id/textView107"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_264"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:typeface="normal"
+                tools:text="@string/app_264" />
+
+            <TextView
+                android:id="@+id/textView108"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_265"
+                android:textColor="#040404"
+                android:textSize="14sp"
+                android:typeface="normal"
+                tools:text="@string/app_265" />
+
+            <TextView
+                android:id="@+id/textView109"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/andada"
+                android:text="@string/app_266"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:typeface="normal"
+                tools:text="@string/app_266" />
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>
